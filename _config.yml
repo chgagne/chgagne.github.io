@@ -109,32 +109,24 @@ author:
   links:
     - label: "christian.gagne@gel.ulaval.ca"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:christian.gagne@gel.ulaval.ca"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    #- label: "Facebook"
-      # icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/chgagne"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chgagne"
-    #- label: "Instagram"
-      # icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
   links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    #- label: "Facebook"
-      #icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/chgagne"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chgagne"
