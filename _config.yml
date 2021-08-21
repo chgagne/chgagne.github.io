@@ -121,7 +121,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Google Scholar"
+    - label: "Scholar"
       icon: "fab fa-fw fa-graduation-cap"
        url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Twitter"
