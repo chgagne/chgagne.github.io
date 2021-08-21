@@ -1,171 +1,57 @@
-### Christian Gagné ###
+---
+title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
+---
 
-Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  
-[Chaire en intelligence artificielle Canada-CIFAR](https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar), membre associé à [Mila](https://mila.quebec)  
-Membre du [LVSN](http://vision.gel.ulaval.ca) / [CeRVIM](https://cervim.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](http://reparti.gel.ulaval.ca) / [UNIQUE](https://sites.google.com/view/unique-neuro-ai/about) / [VITAM](http://www.cersspl.ca/) / [OBVIA](https://observatoire-ia.ulaval.ca/)  
-Professeur titulaire au [département de génie électrique et de génie informatique](http://www.gelgif.ulaval.ca)  
-[Université Laval](http://www.ulaval.ca)  
+*Synopsis* : Ce cours porte sur les méthodes permettant l'inférence à partir d'observations de modèles de classement, de régression, d'analyse de données ou de prise de décision. Ces méthodes se caractérisent par une phase d'entraînement à partir de données ou d'expériences, afin d'effectuer des tâches qui seraient difficiles ou impossibles à faire par des moyens algorithmiques plus classiques. Le cours aborde différentes approches actives en apprentissage et cherche à expliquer leurs mécanismes de base. Une perspective applicative de ces différentes techniques est également présentée, avec un accent particulier sur l'utilisation d'outils logiciels modernes.
 
-Adresse :  
-Département de génie électrique et de génie informatique  
-Pavillon Adrien-Pouliot  
-Université Laval  
-Québec (Québec)&nbsp;&nbsp;G1V 0A6  
-Canada
-
-Bureau : PLT-1138-F  
-Courriel : [christian.gagne@gel.ulaval.ca](mailto:christian.gagne@gel.ulaval.ca)  
-Téléphone : utilisez le courriel
+* [Descriptions du cours](https://www.ulaval.ca/les-etudes/cours/repertoire/detailsCours/gif-4101-apprentissage-et-reconnaissance.html)
+* [Page du cours dans monPortail](https://sitescours.monportail.ulaval.ca/ena/site/accueil?idSite=118494&_js=true&idPage=2673605)
+* [Chaîne YouTube](https://www.youtube.com/channel/UCkMXqYnOzhIlRseUOgq8_Xw)
+* Professeur : [Christian Gagné](http://vision.gel.ulaval.ca/~cgagne)
 
 ---
 
-### Biographie courte ###
+## Chronologie et présentations ##
 
-Christian Gagné est professeur au [département de génie électrique et de génie informatique](https://www.gelgif.ulaval.ca) de l'[Université Laval](https://www.ulaval.ca) depuis 2008. Il est le directeur de l'[Institut intelligence et données](https://iid.ulaval.ca) (IID) de l’Université Laval. Il détient une [Chaire en intelligence artificielle Canada-CIFAR](https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar) et est membre associé à [Mila](https://mila.quebec). Il est également membre du [Laboratoire de vision et systèmes numériques](https://vision.gel.ulaval.ca) (LVSN), une composante du [Centre de recherche en robotique, vision et intelligence machine](https://cervim.ulaval.ca) (CeRVIM) ainsi que du [Centre de recherche en données massives](https://crdm.ulaval.ca) (CRDM) de l’Université Laval. Il fait partie des regroupements stratégiques [REPARTI](http://reparti.gel.ulaval.ca) et [UNIQUE](https://sites.google.com/view/unique-neuro-ai/abou) du FRQNT, du centre [VITAM](http://www.cersspl.ca/) du FRQS et de l'[Observatoire international sur les impacts sociétaux de l'IA et du numérique](https://observatoire-ia.ulaval.ca/) (OBVIA).
-
-Il a complété un doctorat en génie électrique (Université Laval) en 2005 pour ensuite effectuer un stage postdoctoral conjointement à l'[INRIA Saclay](https://www.inria.fr/centre/saclay) (France) et l'[Université de Lausanne](https://www.unil.ch) (Suisse) en 2005-2006. Il a œuvré comme associé de recherche en milieu industriel entre 2006 et 2008. Il est membre du comité exécutif de l’[ACM Special Interest Group on Evolutionary Computation](https://sig.sigevo.org) (SIGEVO) depuis 2017.
-
-Ses intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage machine et l'optimisation stochastique. En particulier, il s’intéresse aux réseaux de neurones profonds, à l’apprentissage et au transfert de représentations, au méta-apprentissage ainsi qu’à l’apprentissage multitâche. Il s’intéresse également aux approches d’optimisation basées sur des modèles probabilistes ainsi qu’aux algorithmes évolutionnaires, entre autres pour l’optimisation boîte noire et la programmation automatique. Une part importante de ses travaux porte également sur la mise en pratique de ces techniques dans des domaines comme la vision numérique, la microscopie, la santé, l’énergie et les transports.
-
-Pour plus de détails, consultez le [CV](cv-cgagne-fr.pdf).
-
----
-
-### Enseignement ###
-
-- [GIF-3004 - Systèmes embarqués temps réel](https://setr-ulaval.github.io/)
-- [GIF-4101 / GIF-7005 - Introduction à l'apprentissage machine](https://chgagne.github.io/iaa-ulaval/)
-
-Cours auparavant enseignés :
-
-- GIF-3000 - Architecture des microprocesseurs
-- GEL-3005 - Design IV (synthèse)
-- GEL-1001 - Design I (méthodologie)
-- IFT-19968 - Algorithmes de l'ingénieur II
-
----
-
-### Recherche ###
-
-Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage machine et l'optimisation stochastique ainsi que leurs applications.
-
-- Méthodes
-	- Réseaux de neurones profonds
-	- Apprentissage et transfert de représentations
-	- Méta-apprentissage
-	- Apprentissage multitâches
-	- Optimisation avec modèles probabilistes
-	- Algorithmes évolutionnaires
-	- Programmation génétique
-- Applications
-	- Reconnaissance des formes
-	- Vision numérique
-	- Microscopie et neurosciences
-	- Santé
-	- Réseaux électriques intelligents
-	- Véhicules autonomes
-
-Voir également mes [publications sur Google Scholar](https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate).
-
----
-
-### Étudiants ###
-
-#### Étudiants actuels ####
-
-- Doctorat
-    - Adam Tupper, doctorat en génie électrique, depuis 2021
-    - Benjamin Léger, doctorat en génie électrique, depuis 2020
-    - Nour Elhouda Dhiab, doctorat en génie civil (superviseur : [Jean Côté](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/cote-jean/)), depuis 2019
-    - Arman Afrasiyabi, doctorat en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), depuis 2017
-    - Changjian Shui, doctorat en génie électrique (cosuperviseur: [Boyu Wang](https://sites.google.com/site/borriewang/), Western Ontario), depuis 2017
-	- Sophie Baillargeon, doctorat en mathématiques (concentration statistique) (superviseur : [Thierry Duchesne](https://www.mat.ulaval.ca/departement-et-professeurs/direction-personnel-et-etudiants/professeurs/fiche-de-professeur/show/duchesne-thierry/)), depuis 2014
-- Maîtrise
-    - Antoine Ollier, maîtrise en génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2020
-    - Thomas Philippon, maîtrise en génie électrique, depuis 2020
-    - Cyril Blanc, maîtrise en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), depuis 2020
-    - Catherine Bouchard, maîtrise en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2019
-    - Ali Assafiri, maîtrise en sciences géomatiques (superviseure : [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel)), depuis 2019
-    - Mohamed Abderrahmen Abid, maîtrise en génie électrique, depuis 2019
-    - Ba Diep Nguyen, maîtrise en génie électrique (cosuperviseur : Daniel Reinharz), depuis 2018
-    - Alexandre Hains, maîtrise en génie électrique, depuis 2018
-    - Gabriel Leclerc, maîtrise en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2017
-- Stagiaires postdoctoraux
-    - Fatemeh Gholi Zadeh Kharrat, cosuperviseure : [Caroline Sirois](http://www.crchudequebec.ulaval.ca/recherche/chercheurs/caroline-sirois/), depuis 2020
-
-#### Anciens étudiants ####
-
-- Doctorat
-    - Mahdieh Abbasi, *Toward Robust Deep Neural Networks*, doctorat en génie électrique (cosuperviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)), 2020
-    - Marc-André Gardner, *Learning to Estimate Indoor Illumination*, doctorat en génie électrique (superviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), 2020
-    - Karol Lina Lopez, [*A Machine Learning Approach for the Smart Charging of Electric Vehicles*](http://hdl.handle.net/20.500.11794/34741), doctorat en génie électrique, 2019
-	- Julien-Charles Lévesque, [*Bayesian Hyperparameter Optimization: Overfitting, Ensembles and Conditional Spaces*](http://hdl.handle.net/20.500.11794/28364), doctorat en génie électrique (cosuperviseur : [Robert Sabourin](http://profs.etsmtl.ca/rsabourin/), ÉTS Montréal), 2018
-	- [Audrey Durand](https://audurand.wordpress.com/), [*Déclinaisons de bandits et leurs applications*](http://hdl.handle.net/20.500.11794/28250), doctorat en génie électrique (cosuperviseure : [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), McGill), 2017
-	- Ahmed Najjar, [*Forage de données de banques administratives en santé*](http://hdl.handle.net/20.500.11794/28162), doctorat en génie électrique (cosuperviseur : Daniel Reinharz), 2017
-	- Vahab Akbarzadeh, [*Spatio-Temporal Coverage Optimization of Sensor Networks*](http://hdl.handle.net/20.500.11794/27065), doctorat en génie électrique (cosuperviseur : [Marc Parizeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/parizeau-marc/)), 2016
-    - Zahra Toony, [*Extracting Structured Models From Raw Scans of Manufactured Objects: A Step Towards Embedded Intelligent Handheld 3D Scanning*](http://hdl.handle.net/20.500.11794/26270), doctorat en génie électrique (superviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)), 2015
-	- François-Michel De Rainville, [*Placement interactif de capteurs mobiles dans des environnements tridimensionnels non convexes*](http://hdl.handle.net/20.500.11794/25896), doctorat en génie électrique (cosuperviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)), 2015
-	- Meysam Argany, [*Development of a GIS-based method for sensor network deployment and coverage optimization*](http://hdl.handle.net/20.500.11794/25829), doctorat en sciences géomatiques (superviseur : [Mir Abolfazl Mostafavi](https://www.scg.ulaval.ca/mir-abolfazl-mostafavi)), 2015
-	- Darwin Brochero, [*Hydroinformatics and diversity in hydrological ensemble prediction systems*](http://hdl.handle.net/20.500.11794/24547), doctorat en génie des eaux (superviseur : [François Anctil](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/anctil-francois/)), 2013
-- Maîtrise
-    - Hugo Siqueira Gomes, *Meta Learning for Population-Based Algorithms in Black-box Optimization*, maîtrise en génie électrique, 2021
-    - [Louis-Émile Robitaille](https://l3robot.github.io/), *Réseaux de neurones pour l’apprentissage de la préférence en microscopie super-résolution*, maîtrise en génie électrique (cosuperviseures : [Audrey Durand](https://audurand.wordpress.com/) et [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), 2021
-    - Sébastien De Blois, *Deep learning with multiple modalities: making the most out of available data*, maîtrise en génie électrique, 2020
-    - El Mehdi Megder, *Approches basées sur l'apprentissage automatique pour l'anticipation de la qualité d'usinage de pièces métalliques*, maîtrise en informatique (superviseur : [Jonathan Gaudreault](https://www.ift.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs-reguliers/fiche/show/gaudreault-jonathan/)), 2020
-    - Marc-André Gardner, [*Contrôle de la croissance de la taille des individus en programmation génétique*](http://hdl.handle.net/20.500.11794/25386), maîtrise en génie électrique (cosuperviseur : [Marc Parizeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/parizeau-marc/)), 2014
-	- Kevin Tanguy, [*Modélisation et optimisation de la recharge bidirectionnelle de véhicules électriques : application à la régulation électrique d'un complexe immobilier*](http://hdl.handle.net/20.500.11794/24591), maîtrise en génie électrique (cosuperviseur : Maxime Dubois), 2013
-	- [Audrey Durand](https://audurand.wordpress.com/), [*Simulation et apprentissage Monte-Carlo de stratégies d'intervention en santé publique*](http://hdl.handle.net/20.500.11794/22982), maîtrise en génie électrique (cosuperviseur : Daniel Reinharz), 2011
-	- François-Michel De Rainville, [*Design d'expérimentation interactif : Aide à la compréhension de systèmes complexes*](http://hdl.handle.net/20.500.11794/22172), maîtrise en génie électrique (superviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)), 2010
-- Stagiaires postdoctoraux
-    - Ihsen Hedhli, 2018 - 2020
-    - Azadeh Sadat Mozafari, 2017 - 2019
-    - Farkhondeh Kiaee, 2016
-    - Matthew Walker, 2008 - 2011
-    - Albert Hung-Ren Ko, 2010
-
----
-
-### Projets logiciels ###
-
-- [DEAP : Distributed Evolutionary Algorithms in Python](https://github.com/deap/deap)
-- [SCHNAPS : Generic Population-based Simulator for Public Health](https://github.com/audurand/schnaps)
-- [Open BEAGLE : Generic C++ Framework for Evolutionary Computation](https://github.com/chgagne/beagle)
-- [BEAGLE Puppy](https://code.google.com/archive/p/beagle/wikis/Puppy.wiki)
-- [Library for Lens System Ray Tracing (LLSRT)](http://w3.gel.ulaval.ca/~cgagne/llsrt/)
-
----
-
-### Organisation et comités ###
-
-- Track chair, [Evolutionary Machine Learning](https://gecco-2021.sigevo.org/Tracks#EML%20-%20Evolutionary%20Machine%20Learning), [GECCO 2021](https://gecco-2021.sigevo.org/HomePage), Lille, France, 10 au 14 juillet 2021
-- Comité d'organisation, [Rendez-vous IA Québec](https://www.itis.ulaval.ca/cms/site/itis/rviaqc), depuis 2017
-- Comité exécutif, [ACM SIGEVO](http://sig.sigevo.org/index.html), depuis 2017
-- Comité éditorial, [Genetic Programming and Evolvable Machines](http://www.springer.com/computer/ai/journal/10710), depuis 2013
-- Membre du groupe de travail sur l'électrification des transport, [Institut Technologies de l'information et société](https://www.itis.ulaval.ca), Université Laval, 2014
-- Responsable de la publicité, [GECCO 2014](http://www.sigevo.org/gecco-2014/), Vancouver (Colombie-Britannique), 12 au 16 juillet 2014
-- Comité national d'allocation des ressources, [Calcul Canada](https://computecanada.ca/fr/), 2009 - 2013
-- Responsable Section 200 (Sciences physiques, mathématiques et génie), comité scientifique du 80e congrès de l'[Acfas](http://www.acfas.ca) (Association francophone pour le savoir), Montréal (Québec), 7 au 11 mai 2012
-- Organisateur, [Undergraduate Student Workshop](usw-gecco2011.html), [GECCO 2011](http://www.sigevo.org/gecco-2011), Dublin, Irlande, 12 au 16 juillet 2011
-- Track chair, [Digital Entertainment Technologies and Arts](http://www.sigevo.org/gecco-2011/organizers-tracks.html#det), [GECCO 2011](http://www.sigevo.org/gecco-2011), Dublin, Irlande, 12-16 juillet 2011
-- Éditeur invité, [section spéciale *Evolutionary Art*](http://www.inderscience.com/info/inarticletoc.php?jcode=ijart&year=2015&vol=8&issue=2), [International Journal of Arts and Technology](http://www.inderscience.com/ijart), 2011
-- Responsable des compétitions, [GECCO 2010](http://www.sigevo.org/gecco-2010), Portland (Oregon), 7 au 11 juillet 2010
-- Organisateur local, [GECCO 2009](http://www.sigevo.org/gecco-2009), Montréal (Québec), 8 au 12 juillet 2009
-- Membre de l'organisation locale (commanditaires), [HPCS 2008](http://www.hpcs2008.org), Québec (Québec), 9 au 11 juin 2008
+* Semaine 1 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-prEq9nYi5wzNHyypFEZw6Z2) <i class="fab fa-youtube"></i>)
+  * Présentation du cours ([présentation](https://drive.google.com/open?id=1f2oAxbhiZ7tGhs3DapOOJDTdoJRvRiOW) <i class="fas fa-chalkboard"></i>)
+  * Apprentissage automatique ([présentation](https://drive.google.com/open?id=1Lour__te29gnZXGrAhp0IQr3kKala49B) <i class="fas fa-chalkboard"></i>) 
+  * Apprentissage supervisé ([présentation](https://drive.google.com/open?id=1VIW9EiifRnsvdH5B-MGQGaNF5OZjS6tW) <i class="fas fa-chalkboard"></i>)
+* Semaine 2 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pqRkZT_G8OP-_dGJBosykam) <i class="fab fa-youtube"></i>)
+  * Théorie bayésienne de la décision ([présentation](https://drive.google.com/open?id=19KxphxYArYHVoNBWsIysK1-cvQbxDosE) <i class="fas fa-chalkboard"></i>)
+  * Méthodes paramétriques ([présentation](https://drive.google.com/open?id=1qZ6kQ5sANBTpiBr33irzw3SE5_5nBJiQ) <i class="fas fa-chalkboard"></i>)
+* Semaine 3 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pqjukTTJkFiSJsQEVBOZ5Wn) <i class="fab fa-youtube"></i>)
+  * Méthodes multivariées ([présentation](https://drive.google.com/open?id=174mBWqGO6ta9rFtYW3Up5VDKTQHcQAGA) <i class="fas fa-chalkboard"></i>)
+  * Scikit-learn ([présentation](https://drive.google.com/open?id=13G7Wt03pbWD-33InpebrOiva8YY_JQSX) <i class="fas fa-chalkboard"></i>)
+* Semaine 4 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-poqvfoyFTo6a05QaM4KSTi6) <i class="fab fa-youtube"></i>)
+  * Méthodes non paramétriques ([présentation](https://drive.google.com/open?id=1cLKeC9k8mOZ9PRoITam3Bvui-WYMUvYl) <i class="fas fa-chalkboard"></i>)
+* Semaine 5 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pqflF9nYTNf_GuRXKVysFxQ) <i class="fab fa-youtube"></i>)
+  * Discriminants linéaires ([présentation](https://drive.google.com/open?id=1WfP-wvIuibezzAxbVYfeVKU1rPCAKTfG) <i class="fas fa-chalkboard"></i>)
+* Semaine 6 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-prhEXW8Z0O924I0ejmepy6w) <i class="fab fa-youtube"></i>)
+  * Méthodes à noyau ([présentation](https://drive.google.com/open?id=1etV6xn7rqe-wxDyhAJVuZzHrtV-YRRSi) <i class="fas fa-chalkboard"></i>)
+* Semaine 7 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pplc8fD5xAS4BCOJOy1vSJz) <i class="fab fa-youtube"></i>)
+  * Perceptron multicouche ([présentation](https://drive.google.com/open?id=1okEiHv5LyXAuPWRDpnDReXpHZHKOxOZy) <i class="fas fa-chalkboard"></i>)
+* Semaine 8 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pqdwHyfUKAQ05a_U_77ENz4) <i class="fab fa-youtube"></i>)
+  * Apprentissage profond ([présentation](https://drive.google.com/open?id=1MBxxFBhGVvsUZ7-ypMc-6dOg5EuFbisi) <i class="fas fa-chalkboard"></i>)
+* Semaine 10 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-ppL5GBFghU3o4A-294hLGQW) <i class="fab fa-youtube"></i>)
+  * Réseaux de neurones à convolution ([présentation](https://drive.google.com/open?id=160Tg0Z-XCcsXpQoCrjc_iD91yEdlgL0R) <i class="fas fa-chalkboard"></i>)
+  * PyTorch ([présentation](https://drive.google.com/open?id=1sugQX2fmYrWRftaHqoKYBDtwXcfIo70n) <i class="fas fa-chalkboard"></i>)
+* Semaine 11 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-poIXkaQOmQusLarmrj0t2a1) <i class="fab fa-youtube"></i>)
+  * Méthodes par ensemble ([présentation](https://drive.google.com/open?id=17XLvAYAucbO4MFAZjrFBEmScSAC9QeSw) <i class="fas fa-chalkboard"></i>)
+* Semaine 12 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pqPBuxSo9MQMlYBHPUdCqXb) <i class="fab fa-youtube"></i>)
+  * Prétraitement et analyse de données ([présentation](https://drive.google.com/open?id=1ur_ukP2JHrKFP34n8QAlegLjz6dcz5fc) <i class="fas fa-chalkboard"></i>)
+* Semaine 13 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-prlclyh0gzcHlaH144FXVMV) <i class="fab fa-youtube"></i>)
+  * Clustering ([présentation](https://drive.google.com/open?id=1vdFaoWpBGiqCcCw9zf-ogkjPTbYcePNE) <i class="fas fa-chalkboard"></i>)
+* Semaine 14 ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-pqGP9NDqU2rILU1DY4f750h) <i class="fab fa-youtube"></i>)
+  * Configuration de modèles et expérimentations ([présentation](https://drive.google.com/open?id=1wo5lmi2JGvBKpYNvfj340UbLMfulckcU) <i class="fas fa-chalkboard"></i>)
 
 
 ---
 
-<a class="twitter-timeline" href="https://twitter.com/chgagne" width="600" data-tweet-limit="10">Tweets by chgagne</a> <script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Projets ##
 
-  
+* Quelques projets en équipe de l'automne 2020  ([vidéos](https://www.youtube.com/playlist?list=PLbJrgQUb1-prVjlGg3Ec2bRvWLLCgKGtn) <i class="fab fa-youtube"></i>)
+
+
 ---
 
-<script type="text/javascript"> 
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-  var pageTracker = _gat._getTracker("UA-4723811-1");
-  pageTracker._initData();
-  pageTracker._trackPageview();
-</script>
