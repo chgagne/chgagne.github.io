@@ -1,5 +1,5 @@
 ---
-title: "Introduction à l'apprentissage machine - GIF-4101 / GIF-7005"
+title: "Page Web de Christian Gagné"
 permalink: /francais/
 ---
 

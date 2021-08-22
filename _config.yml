@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christian Gagné's Webpage"
+title                    : # "Christian Gagné's Webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Christian Gagné"
-description              : "Christian Gagné's Webpage"
+description              : # "Christian Gagné's Webpage"
 url                      : "https://chgagne.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chgagne/chgagne.github.io"
@@ -266,8 +266,10 @@ compress_html:
 
 # Defaults
 defaults:
+  # _pages
   - scope:
       path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
