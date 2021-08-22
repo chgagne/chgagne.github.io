@@ -6,21 +6,22 @@ redirect_from: /
 author:
   name             : "Christian Gagné"
   avatar           : "/images/cgagne.jpg"
-  bio              : "Chaire Canada-CIFAR en intelligence artificielle<br/>
-                      Directeur de l'Institut intelligence et données<br/>
-                      Professeur à l'Université Laval"
+  bio              : "Chaire Canada-CIFAR en intelligence artificielle<br/>Directeur de l'Institut intelligence et données<br/> Professeur à l'Université Laval"
   location         : "Québec, Québec, Canada"
   #email            : "christian.gagne@gel.ulaval.ca"
   links:
     - label: "christian.gagne@gel.ulaval.ca"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:christian.gagne@gel.ulaval.ca"
-    - label: "Scholar"
+    - label: "Publications"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chgagne"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/christian-gagn%C3%A9-a926b47/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chgagne"
