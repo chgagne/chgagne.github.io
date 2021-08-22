@@ -28,7 +28,7 @@ author:
 
 sidebar:
   - title: "Affiliations"
-    links:
+    children:
       - title: "IID"
         url: "https://iid.ulaval.ca/"
       - title: "Mila"
