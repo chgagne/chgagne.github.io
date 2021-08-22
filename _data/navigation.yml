@@ -4,3 +4,11 @@ main:
     url: /francais
   - title: "EN"
     url: /
+
+fr:
+  - title: "English"
+    url: /
+
+en:
+  - title: "Français"
+    url: /francais/
