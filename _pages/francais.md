@@ -1,6 +1,6 @@
 ---
 title: "Page Web de Christian Gagné"
-permalink: /
+permalink: /francais/
 
 author:
   name             : "Christian Gagné"
