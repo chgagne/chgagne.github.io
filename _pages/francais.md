@@ -1,5 +1,5 @@
 ---
-title: "Page Web de Christian Gagné"
+masthead_title: "Page Web de Christian Gagné"
 permalink: /francais/
 ---
 

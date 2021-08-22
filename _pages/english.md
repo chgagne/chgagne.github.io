@@ -1,5 +1,5 @@
 ---
-title: "Christian Gagné's Webpage"
+masthead_title: "Christian Gagné's Webpage"
 permalink: /
 ---
 
