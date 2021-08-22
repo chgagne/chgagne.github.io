@@ -1,6 +1,25 @@
 ---
 masthead_title: "Page Web de Christian Gagné"
 permalink: /francais/
+author:
+  name             : "Christian Gagné"
+  avatar           : "/images/cgagne.jpg"
+  bio              : "Chaire Canada-CIFAR en intelligence artificielle<br/> Directeur de l'Institut intelligence et données<br/>Professeurr à l'Université Laval"
+  location         : "Québec, Québec, Canada"
+  email            : # "christian.gagne@gel.ulaval.ca"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/chgagne"
+    - label: "Scholar"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chgagne"
+    - label: "christian.gagne@gel.ulaval.ca"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:christian.gagne@gel.ulaval.ca"
 ---
 
 *Synopsis* : Ce cours porte sur les méthodes permettant l'inférence à partir d'observations de modèles de classement, de régression, d'analyse de données ou de prise de décision. Ces méthodes se caractérisent par une phase d'entraînement à partir de données ou d'expériences, afin d'effectuer des tâches qui seraient difficiles ou impossibles à faire par des moyens algorithmiques plus classiques. Le cours aborde différentes approches actives en apprentissage et cherche à expliquer leurs mécanismes de base. Une perspective applicative de ces différentes techniques est également présentée, avec un accent particulier sur l'utilisation d'outils logiciels modernes.
