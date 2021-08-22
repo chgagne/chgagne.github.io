@@ -124,7 +124,7 @@ analytics:
 # Site Footer
 footer:
   links:
-    - label: "Publications (Scholar)"
+    - label: "Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Twitter"
