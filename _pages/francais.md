@@ -6,14 +6,14 @@ redirect_from: /
 author:
   name             : "Christian Gagné"
   avatar           : "/images/cgagne.jpg"
-  bio              : "Chaire Canada-CIFAR en intelligence artificielle<br/>Directeur de l'Institut intelligence et données<br/> Professeur à l'Université Laval"
+  bio              : "Chaire Canada-CIFAR en intelligence artificielle<br/> Directeur de l'Institut intelligence et données<br/> Professeur à l'Université Laval"
   location         : "Québec, Québec, Canada"
   #email            : "christian.gagne@gel.ulaval.ca"
   links:
     - label: "christian.gagne@gel.ulaval.ca"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:christian.gagne@gel.ulaval.ca"
-    - label: "Publications"
+    - label: "Publications (Scholar)"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Twitter"
@@ -35,7 +35,7 @@ sidebar:
 
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  
 [Chaire en intelligence artificielle Canada-CIFAR](https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar), membre associé à [Mila](https://mila.quebec)  
-Membre du [LVSN](http://vision.gel.ulaval.ca) / [CeRVIM](https://cervim.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](http://reparti.gel.ulaval.ca) / [UNIQUE](https://sites.google.com/view/unique-neuro-ai/about) / [VITAM](http://www.cersspl.ca/) / [OBVIA](https://observatoire-ia.ulaval.ca/)  
+Membre du [LVSN](http://vision.gel.ulaval.ca) / [CeRVIM](https://cervim.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](https://reparti.ulaval.ca/) / [UNIQUE](https://sites.google.com/view/unique-neuro-ai/about) / [VITAM](http://vitam.ulaval.ca/) / [OBVIA](https://observatoire-ia.ulaval.ca/)  
 Professeur titulaire au [département de génie électrique et de génie informatique](http://www.gelgif.ulaval.ca)  
 [Université Laval](http://www.ulaval.ca)  
 
@@ -50,7 +50,6 @@ Bureau : PLT-1138-F
 Courriel : [christian.gagne@gel.ulaval.ca](mailto:christian.gagne@gel.ulaval.ca)  
 Téléphone : utilisez le courriel
 
----
 
 ### Biographie courte ###
 
@@ -60,9 +59,8 @@ Il a complété un doctorat en génie électrique (Université Laval) en 2005 po
 
 Ses intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage machine et l'optimisation stochastique. En particulier, il s’intéresse aux réseaux de neurones profonds, à l’apprentissage et au transfert de représentations, au méta-apprentissage ainsi qu’à l’apprentissage multitâche. Il s’intéresse également aux approches d’optimisation basées sur des modèles probabilistes ainsi qu’aux algorithmes évolutionnaires, entre autres pour l’optimisation boîte noire et la programmation automatique. Une part importante de ses travaux porte également sur la mise en pratique de ces techniques dans des domaines comme la vision numérique, la microscopie, la santé, l’énergie et les transports.
 
-Pour plus de détails, consultez le [CV](cv-cgagne-fr.pdf).
+Pour plus de détails, consultez le [CV](files/cv-cgagne-fr.pdf).
 
----
 
 ### Enseignement ###
 
@@ -76,7 +74,6 @@ Cours auparavant enseignés :
 - GEL-1001 - Design I (méthodologie)
 - IFT-19968 - Algorithmes de l'ingénieur II
 
----
 
 ### Recherche ###
 
@@ -100,7 +97,6 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 
 Voir également mes [publications sur Google Scholar](https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate).
 
----
 
 ### Étudiants ###
 
@@ -156,7 +152,6 @@ Voir également mes [publications sur Google Scholar](https://scholar.google.com
     - Matthew Walker, 2008 - 2011
     - Albert Hung-Ren Ko, 2010
 
----
 
 ### Projets logiciels ###
 
@@ -166,7 +161,6 @@ Voir également mes [publications sur Google Scholar](https://scholar.google.com
 - [BEAGLE Puppy](https://code.google.com/archive/p/beagle/wikis/Puppy.wiki)
 - [Library for Lens System Ray Tracing (LLSRT)](http://w3.gel.ulaval.ca/~cgagne/llsrt/)
 
----
 
 ### Organisation et comités ###
 
