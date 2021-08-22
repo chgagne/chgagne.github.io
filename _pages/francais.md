@@ -1,11 +1,14 @@
 ---
 title: "Page Web de Christian Gagné"
 permalink: /francais/
+redirect_from: /
 
 author:
   name             : "Christian Gagné"
   avatar           : "/images/cgagne.jpg"
-  bio              : "* Chaire Canada-CIFAR en intelligence artificielle * Directeur de l'Institut intelligence et données * Professeur à l'Université Laval"
+  bio              : "Chaire Canada-CIFAR en intelligence artificielle<br/>
+                      Directeur de l'Institut intelligence et données<br/>
+                      Professeur à l'Université Laval"
   location         : "Québec, Québec, Canada"
   #email            : "christian.gagne@gel.ulaval.ca"
   links:
