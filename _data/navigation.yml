@@ -1,6 +1,6 @@
 # main links
 main:
   - title: "FR"
-    url: /francais.html
+    url: /francais
   - title: "EN"
-    url: /index.html
+    url: /
