@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Français"
-    url: /francais/
+    url: /fr/
   - title: "English"
-    url: /english/
+    url: /en/
 
 affiliations-fr:
   - title: "Affiliations"
@@ -21,7 +21,7 @@ affiliations-fr:
       - title: "REPARTI"
         url: "https://reparti.ulaval.ca/"
       - title: "UNIQUE"
-        url: "https://sites.google.com/view/unique-neuro-ai/about"
+        url: "https://fr.unique.quebec/accueil"
       - title: "VITAM"
         url: "http://vitam.ulaval.ca/"
       - title: "OBVIA"
@@ -35,25 +35,24 @@ affiliations-en:
   - title: "Affiliations"
     children:
       - title: "IID"
-        url: "https://iid.ulaval.ca/"
+        url: "https://iid.ulaval.ca/en/"
       - title: "Mila"
-        url: "https://mila.quebec/"
-      - title: "LVSN"
-        url: "http://vision.gel.ulaval.ca/"
+        url: "https://mila.quebec/en/"
+      - title: "CVSL"
+        url: "http://vision.gel.ulaval.ca/en/index.php"
       - title: "CeRVIM"
-        url: "https://cervim.ulaval.ca/"
-      - title: "CRDM"
+        url: "https://cervim.ulaval.ca/?page_id=115&lang=en"
+      - title: "BDRC"
         url: "https://crdm.ulaval.ca/"
       - title: "REPARTI"
-        url: "https://reparti.ulaval.ca/"
+        url: "https://reparti.ulaval.ca/?page_id=115&lang=en"
       - title: "UNIQUE"
-        url: "https://sites.google.com/view/unique-neuro-ai/about"
+        url: "https://www.unique.quebec/"
       - title: "VITAM"
         url: "http://vitam.ulaval.ca/"
       - title: "OBVIA"
-        url: "https://observatoire-ia.ulaval.ca/"  
+        url: "https://observatoire-ia.ulaval.ca/en/"  
       - title: "GEL-GIF"
         url: "https://www.gelgif.ulaval.ca/"
       - title: "Université Laval"
-        url: "https://www.ulaval.ca/"
-
+        url: "https://www.ulaval.ca/en"

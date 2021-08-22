@@ -1,11 +1,11 @@
 ---
-title: "Christian Gagné's Webpage"
-permalink: /english/
+#title: "Christian Gagné's Webpage"
+permalink: /en/
 
 author:
   name             : "Christian Gagné"
   avatar           : "/images/cgagne.jpg"
-  bio              : "Canada-CIFAR AI Chair<br/> Director of the Institut intelligence and data<br/> Professor at Université Laval"
+  bio              : "Canada-CIFAR AI Chair, Mila<br/> Director of the Institute Intelligence and Data (IID)<br/> Professor at Université Laval"
   location         : "Quebec City, Quebec, Canada"
   #email            : "christian.gagne@gel.ulaval.ca"
   links:
@@ -32,10 +32,10 @@ sidebar:
   nav: "affiliations-en"
 ---
 
-Director of the [Institute Intelligence and Data (IID)](https://iid.ulaval.ca)  
-[Canada-CIFAR AI Chair](https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs), associate member to [Mila](https://mila.quebec/en)  
-Member of [CVSL](http://vision.gel.ulaval.ca/en/index.php) / [CeRVIM](https://cervim.ulaval.ca/?page_id=115&lang=en) / [BDRC](https://crdm.ulaval.ca) / [REPARTI](http://reparti.gel.ulaval.ca) / [UNIQUE](https://sites.google.com/view/unique-neuro-ai/about) / [VITAM](http://www.cersspl.ca/) / [OBVIA](https://observatoire-ia.ulaval.ca/)  
-Full professor at the [Electrical Engineering and Computer Engineering Department](http://www.gelgif.ulaval.ca)  
+Director of the [Institute Intelligence and Data (IID)](https://iid.ulaval.ca/en/)  
+[Canada-CIFAR AI Chair](https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs), associate member to [Mila](https://mila.quebec/en/)  
+Member of [CVSL](http://vision.gel.ulaval.ca/en/index.php) / [CeRVIM](https://cervim.ulaval.ca/?page_id=115&lang=en) / [BDRC](https://crdm.ulaval.ca) / [REPARTI](https://reparti.ulaval.ca/?page_id=115&lang=en) / [UNIQUE](https://www.unique.quebec/) / [VITAM](http://vitam.ulaval.ca/) / [OBVIA](https://observatoire-ia.ulaval.ca/en/)  
+Full professor at the [Electrical Engineering and Computer Engineering Department](http://www.gelgif.ulaval.ca) of  
 [Université Laval](https://www.ulaval.ca/en)  
 
 Address:  
@@ -178,4 +178,3 @@ See also my [publications on Google Scholar](https://scholar.google.com/citation
 - Competitions chair, [GECCO 2010](http://www.sigevo.org/gecco-2010), Portland (Oregon), July 7-11, 2010
 - Local chair, [GECCO 2009](http://www.sigevo.org/gecco-2009), Montreal (Quebec), July 8-12, 2009
 - Local arrangements (sponsors), [HPCS 2008](http://www.hpcs2008.org), Quebec City (Quebec), June 9-11, 2008
-

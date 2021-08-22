@@ -100,45 +100,39 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Christian Gagné"
-  avatar           : "/images/cgagne.jpg"
-  bio              : "Professor at Université Laval"
-  location         : "Quebec City, Quebec, Canada"
-  email            : # "christian.gagne@gel.ulaval.ca"
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chgagne"
-    - label: "Scholar"
-      icon: "fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/chgagne"
-    - label: "christian.gagne@gel.ulaval.ca"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:christian.gagne@gel.ulaval.ca"
+# author:
+#   name             : "Christian Gagné"
+#   avatar           : "/images/cgagne.jpg"
+#   bio              : "Professor at Université Laval"
+#   location         : "Quebec City, Quebec, Canada"
+#   email            : # "christian.gagne@gel.ulaval.ca"
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/chgagne"
+#     - label: "Scholar"
+#       icon: "fa fa-graduation-cap"
+#       url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/chgagne"
+#     - label: "christian.gagne@gel.ulaval.ca"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:christian.gagne@gel.ulaval.ca"
 
 
 # Site Footer
 footer:
   links:
+    - label: "Publications (Scholar)"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chgagne"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/chgagne"
-    #- label: "GitLab"
-      #icon: "fab fa-fw fa-gitlab"
-      # url:
-    #- label: "Bitbucket"
-      #icon: "fab fa-fw fa-bitbucket"
-      # url:
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/christian-gagn%C3%A9-a926b47/"
 
 
 # Reading Files

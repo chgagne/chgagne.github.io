@@ -1,12 +1,12 @@
 ---
-title: "Page Web de Christian Gagné"
-permalink: /francais/
+#title: "Page Web de Christian Gagné"
+permalink: /fr/
 redirect_from: /
 
 author:
   name             : "Christian Gagné"
   avatar           : "/images/cgagne.jpg"
-  bio              : "Chaire Canada-CIFAR en intelligence artificielle<br/> Directeur de l'Institut intelligence et données<br/> Professeur à l'Université Laval"
+  bio              : "Chaire Canada-CIFAR en intelligence artificielle, Mila<br/> Directeur de l'Institut intelligence et données (IID)<br/> Professeur à l'Université Laval"
   location         : "Québec, Québec, Canada"
   #email            : "christian.gagne@gel.ulaval.ca"
   links:
@@ -35,9 +35,9 @@ sidebar:
 
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  
 [Chaire en intelligence artificielle Canada-CIFAR](https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar), membre associé à [Mila](https://mila.quebec)  
-Membre du [LVSN](http://vision.gel.ulaval.ca) / [CeRVIM](https://cervim.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](https://reparti.ulaval.ca/) / [UNIQUE](https://sites.google.com/view/unique-neuro-ai/about) / [VITAM](http://vitam.ulaval.ca/) / [OBVIA](https://observatoire-ia.ulaval.ca/)  
+Membre du [LVSN](http://vision.gel.ulaval.ca) / [CeRVIM](https://cervim.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](https://reparti.ulaval.ca/) / [UNIQUE](https://fr.unique.quebec/accueil) / [VITAM](http://vitam.ulaval.ca/) / [OBVIA](https://observatoire-ia.ulaval.ca/)  
 Professeur titulaire au [département de génie électrique et de génie informatique](http://www.gelgif.ulaval.ca)  
-[Université Laval](http://www.ulaval.ca)  
+de l'[Université Laval](http://www.ulaval.ca)  
 
 Adresse :  
 Département de génie électrique et de génie informatique  
@@ -59,7 +59,7 @@ Il a complété un doctorat en génie électrique (Université Laval) en 2005 po
 
 Ses intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage machine et l'optimisation stochastique. En particulier, il s’intéresse aux réseaux de neurones profonds, à l’apprentissage et au transfert de représentations, au méta-apprentissage ainsi qu’à l’apprentissage multitâche. Il s’intéresse également aux approches d’optimisation basées sur des modèles probabilistes ainsi qu’aux algorithmes évolutionnaires, entre autres pour l’optimisation boîte noire et la programmation automatique. Une part importante de ses travaux porte également sur la mise en pratique de ces techniques dans des domaines comme la vision numérique, la microscopie, la santé, l’énergie et les transports.
 
-Pour plus de détails, consultez le [CV](files/cv-cgagne-fr.pdf).
+Pour plus de détails, consultez le [CV](/files/cv-cgagne-fr.pdf).
 
 
 ### Enseignement ###
@@ -178,5 +178,3 @@ Voir également mes [publications sur Google Scholar](https://scholar.google.com
 - Responsable des compétitions, [GECCO 2010](http://www.sigevo.org/gecco-2010), Portland (Oregon), 7 au 11 juillet 2010
 - Organisateur local, [GECCO 2009](http://www.sigevo.org/gecco-2009), Montréal (Québec), 8 au 12 juillet 2009
 - Membre de l'organisation locale (commanditaires), [HPCS 2008](http://www.hpcs2008.org), Québec (Québec), 9 au 11 juin 2008
-
-
