@@ -27,23 +27,7 @@ author:
       url: "https://github.com/chgagne"
 
 sidebar:
-  - title: "Affiliations"
-    children:
-      - title: "IID"
-        url: "https://iid.ulaval.ca/"
-      - title: "Mila"
-        url: "https://mila.quebec/"
-      - title: "GEL-GIF"
-        url: "https://www.gelgif.ulaval.ca/"
-      - title: "LVSN"
-        url: "http://vision.gel.ulaval.ca/"
-      - title: "CeRVIM"
-        url: "https://cervim.ulaval.ca/"
-      - title: "CRDM"
-        url: "https://crdm.ulaval.ca/"
-      - title: "REPARTI"
-        url: "https://crdm.ulaval.ca/"
-
+  nav: "affiliations-fr"
 ---
 
 *Synopsis* : Ce cours porte sur les méthodes permettant l'inférence à partir d'observations de modèles de classement, de régression, d'analyse de données ou de prise de décision. Ces méthodes se caractérisent par une phase d'entraînement à partir de données ou d'expériences, afin d'effectuer des tâches qui seraient difficiles ou impossibles à faire par des moyens algorithmiques plus classiques. Le cours aborde différentes approches actives en apprentissage et cherche à expliquer leurs mécanismes de base. Une perspective applicative de ces différentes techniques est également présentée, avec un accent particulier sur l'utilisation d'outils logiciels modernes.
