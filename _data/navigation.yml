@@ -1,14 +1,7 @@
 # main links
 main:
-  - title: "FR"
-    url: /francais
-  - title: "EN"
-    url: /
-
-fr:
-  - title: "English"
-    url: /
-
-en:
   - title: "Français"
-    url: /francais/
+    url: /
+  - title: "English"
+    url: /english/
+

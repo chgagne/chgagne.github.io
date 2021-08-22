@@ -1,6 +1,6 @@
 ---
 masthead_title: "Christian Gagné's Webpage"
-permalink: /
+permalink: /english/
 ---
 
 *Synopsis*: This course focuses on methods for making inferences from observations of classification, regression, data analysis or decision making models. These methods are characterized by a training phase using data or experiments to perform tasks that would be difficult or impossible to do using more conventional algorithmic means. The course discusses various approaches to learning and seeks to explain their basic mechanisms. An applicative perspective of these different techniques is also presented, with a particular emphasis on the use of modern software tools.
