@@ -29,8 +29,8 @@ author:
       icon: "fas fa-user"
       url: "/files/cv-cgagne-fr.pdf"
 
-sidebar:
-  nav: "affiliations-fr"
+#sidebar:
+#  nav: "affiliations-fr"
 ---
 
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  
