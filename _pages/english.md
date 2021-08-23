@@ -58,8 +58,8 @@ For more details, see the [CV](/files/cv-cgagne-en.pdf).
 
 ### Teaching ###
 
-- [GIF-3004 - Systèmes embarqués temps réel](https://setr-ulaval.github.io/)
 - [GIF-4101 / GIF-7005 - Introduction à l'apprentissage machine](https://chgagne.github.io/iaa-ulaval/english.html)
+- [GIF-3004 - Systèmes embarqués temps réel](https://setr-ulaval.github.io/)
 
 Courses previously taught:
 
