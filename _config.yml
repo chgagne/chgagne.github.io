@@ -98,6 +98,9 @@ analytics:
     tracking_id          : "UA-4723811-1"
     anonymize_ip         : # true, false (default)
 
+# Hide feed link in the footer
+atom_feed:
+  hide: true
 
 # Site Author
 # author:

@@ -14,7 +14,7 @@ author:
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "Academic CV"
-      icon: "fas fa-award"
+      icon: "fas fa-file-certificate"
       url: "/files/cv-cgagne-en.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
