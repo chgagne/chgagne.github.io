@@ -162,7 +162,7 @@ Voir également mes [publications sur Google Scholar](https://scholar.google.com
 
 ### Organisation et comités ###
 
-- Organisateur, [Interactive Labeling and Data Augmentation for Vision](https://ildav-workshop.github.io/), ICCV 2021 Workshop, 11 octobre 2021.
+- Comité d'organisation, [Interactive Labeling and Data Augmentation for Vision](https://ildav-workshop.github.io/), [ICCV 2021](http://iccv2021.thecvf.com/) Workshop, 11 octobre 2021.
 - Track chair, [Evolutionary Machine Learning](https://gecco-2021.sigevo.org/Tracks#EML%20-%20Evolutionary%20Machine%20Learning), [GECCO 2021](https://gecco-2021.sigevo.org/HomePage), Lille, France, 10 au 14 juillet 2021
 - Comité d'organisation, [Rendez-vous IA Québec](https://www.itis.ulaval.ca/cms/site/itis/rviaqc), depuis 2017
 - Comité exécutif, [ACM SIGEVO](http://sig.sigevo.org/index.html), depuis 2017
