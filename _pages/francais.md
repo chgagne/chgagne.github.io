@@ -1,14 +1,11 @@
 ---
-#title: "Page Web de Christian Gagné"
-permalink: /fr/
-redirect_from: /
-
+permalink: /
+redirect_from: /fr/
 author:
   name             : "Christian Gagné"
   avatar           : "/images/cgagne.jpg"
-  bio              : "Chaire Canada-CIFAR en intelligence artificielle, Mila<br/> Directeur de l'Institut intelligence et données (IID)<br/> Professeur à l'Université Laval"
+  bio              : "[Chaire Canada-CIFAR en intelligence artificielle]((https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar)), [Mila](https://mila.quebec)<br/> Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)<br/> Professeur à l'[Université Laval](http://www.ulaval.ca)"
   location         : "Québec, Québec, Canada"
-  #email            : "christian.gagne@gel.ulaval.ca"
   links:
     - label: "christian.gagne@gel.ulaval.ca"
       icon: "fas fa-fw fa-envelope-square"
@@ -16,6 +13,9 @@ author:
     - label: "Publications (Scholar)"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "CV académique"
+      icon: "fas fa-award"
+      url: "/files/cv-cgagne-fr.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chgagne"
@@ -25,12 +25,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chgagne"
-    - label: "CV"
-      icon: "fas fa-user"
-      url: "/files/cv-cgagne-fr.pdf"
-
-#sidebar:
-#  nav: "affiliations-fr"
 ---
 
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  

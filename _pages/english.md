@@ -1,13 +1,11 @@
 ---
-#title: "Christian Gagné's Webpage"
 permalink: /en/
 
 author:
   name             : "Christian Gagné"
   avatar           : "/images/cgagne.jpg"
-  bio              : "Canada-CIFAR AI Chair, Mila<br/> Director of the Institute Intelligence and Data (IID)<br/> Professor at Université Laval"
+  bio              : "[Canada-CIFAR AI Chair](https://www.cifar.ca/ai/pan-canadian-artificial-intelligence-strategy/the-canada-cifar-ai-chairs), [Mila](https://mila.quebec/en/)<br/> Director of the [Institute Intelligence and Data (IID)](https://iid.ulaval.ca/en/)<br/> Professor at [Université Laval](https://www.ulaval.ca/en)"
   location         : "Quebec City, Quebec, Canada"
-  #email            : "christian.gagne@gel.ulaval.ca"
   links:
     - label: "christian.gagne@gel.ulaval.ca"
       icon: "fas fa-fw fa-envelope-square"
@@ -15,6 +13,9 @@ author:
     - label: "Publications (Scholar)"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "Academic CV"
+      icon: "fas fa-award"
+      url: "/files/cv-cgagne-en.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/chgagne"
@@ -24,12 +25,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chgagne"
-    - label: "CV"
-      icon: "fas fa-user"
-      url: "/files/cv-cgagne-en.pdf"
-
-#sidebar:
-#  nav: "affiliations-en"
 ---
 
 Director of the [Institute Intelligence and Data (IID)](https://iid.ulaval.ca/en/)  
