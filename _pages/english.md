@@ -112,7 +112,6 @@ See also my [publications on Google Scholar](https://scholar.google.com/citation
     - Antoine Ollier, M.Sc. in Electrical Engineering (supervisor: [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), since 2020
     - Thomas Philippon, M.Sc. in Electrical Engineering, since 2019
     - Cyril Blanc, M.Sc. in Electrical Engineering (cosupervisor: [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), since 2020
-    - Catherine Bouchard, M.Sc. in Electrical Engineering (cosupervisor: [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), since 2019
     - Ali Assafiri, M.Sc. in Geomatic Sciences (supervisor: [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel)), since 2019
     - Mohamed Abderrahmen Abid, M.Sc. in Electrical Engineering, since 2019
     - Ba Diep Nguyen, M.Sc. in Electrical Engineering (cosupervisor: Daniel Reinharz), since 2018
