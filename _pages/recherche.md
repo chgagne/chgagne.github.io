@@ -2,8 +2,6 @@
 permalink: /recherche/
 ---
 
-## Recherche
-
 Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage machine et l'optimisation stochastique ainsi que leurs applications.
 
 - Méthodes
@@ -23,7 +21,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
   - Véhicules autonomes
 
 
-### Projets logiciels
+## Projets logiciels
 
 - [DEAP : Distributed Evolutionary Algorithms in Python](https://github.com/deap/deap)
 - [SCHNAPS : Generic Population-based Simulator for Public Health](https://github.com/audurand/schnaps)
@@ -31,7 +29,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - [BEAGLE Puppy](https://code.google.com/archive/p/beagle/wikis/Puppy.wiki)
 - [Library for Lens System Ray Tracing (LLSRT)](http://w3.gel.ulaval.ca/~cgagne/llsrt/)
 
-### Organisation et comités
+## Organisation et comités
 
 - Comité d'organisation, [Interactive Labeling and Data Augmentation for Vision](https://ildav-workshop.github.io/), [ICCV 2021](http://iccv2021.thecvf.com/) Workshop, 11 octobre 2021.
 - Track chair, [Evolutionary Machine Learning](https://gecco-2021.sigevo.org/Tracks#EML%20-%20Evolutionary%20Machine%20Learning), [GECCO 2021](https://gecco-2021.sigevo.org/HomePage), Lille, France, 10 au 14 juillet 2021

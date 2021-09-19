@@ -2,9 +2,7 @@
 permalink: /etudiants/
 ---
 
-## Étudiants
-
-### Étudiants actuels
+## Étudiants actuels
 
 - Doctorat
     - Sara Karami, doctorat en génie électrique, depuis 2021
@@ -30,7 +28,7 @@ permalink: /etudiants/
 - Stagiaires postdoctoraux
     - Fatemeh Gholi Zadeh Kharrat, cosuperviseure : [Caroline Sirois](http://www.crchudequebec.ulaval.ca/recherche/chercheurs/caroline-sirois/), depuis 2020
 
-### Anciens étudiants
+## Anciens étudiants
 
 - Doctorat
     - Mahdieh Abbasi, [*Toward Robust Deep Neural Networks*](http://hdl.handle.net/20.500.11794/67766), doctorat en génie électrique (cosuperviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)), 2020
