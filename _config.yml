@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Christian Gagné"
+locale                   : "fr-CA"
+title                    : "Page Web de Christian Gagné"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Christian Gagné"
-description              : # "Christian Gagné's Webpage"
+description              : "Page Web de Christian Gagné"
 url                      : "https://chgagne.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chgagne/chgagne.github.io"
@@ -105,7 +105,7 @@ atom_feed:
 author:
   name             : "Christian Gagné"
   avatar           : "/images/cgagne.jpg"
-  bio              : "[Chaire Canada-CIFAR en intelligence artificielle]((https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar)), [Mila](https://mila.quebec)<br/> Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)<br/> Professeur à l'[Université Laval](http://www.ulaval.ca)"
+  bio              : "[Chaire Canada-CIFAR en intelligence artificielle](https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar), [Mila](https://mila.quebec)<br/> Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)<br/> Professeur à l'[Université Laval](http://www.ulaval.ca)"
   location         : "Québec, Québec, Canada"
   links:
     - label: "christian.gagne@gel.ulaval.ca"
