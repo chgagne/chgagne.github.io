@@ -1,6 +1,7 @@
 ---
 permalink: /
 redirect_from: /français
+titre: "À propos"
 ---
 
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  
