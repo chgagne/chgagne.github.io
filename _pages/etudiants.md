@@ -1,6 +1,6 @@
 ---
 permalink: /etudiants/
-titre: "Étudiants"
+title: "Étudiants"
 ---
 
 ## Étudiants actuels

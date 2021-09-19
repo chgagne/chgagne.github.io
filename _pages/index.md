@@ -1,7 +1,7 @@
 ---
 permalink: /
 redirect_from: /français
-titre: "Christian Gagné"
+title: "Christian Gagné"
 ---
 
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  

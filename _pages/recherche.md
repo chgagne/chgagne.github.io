@@ -1,6 +1,6 @@
 ---
 permalink: /recherche/
-titre: "Recherche"
+title: "Recherche"
 ---
 
 Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage machine et l'optimisation stochastique ainsi que leurs applications.
