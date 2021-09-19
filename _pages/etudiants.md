@@ -2,6 +2,8 @@
 permalink: /etudiants/
 ---
 
+# Étudiants
+
 ## Étudiants actuels
 
 - Doctorat
