@@ -102,26 +102,30 @@ analytics:
 atom_feed:
   hide: true
 
-# Site Author
-# author:
-#   name             : "Christian Gagné"
-#   avatar           : "/images/cgagne.jpg"
-#   bio              : "Professor at Université Laval"
-#   location         : "Quebec City, Quebec, Canada"
-#   email            : # "christian.gagne@gel.ulaval.ca"
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/chgagne"
-#     - label: "Scholar"
-#       icon: "fa fa-graduation-cap"
-#       url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/chgagne"
-#     - label: "christian.gagne@gel.ulaval.ca"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:christian.gagne@gel.ulaval.ca"
+author:
+  name             : "Christian Gagné"
+  avatar           : "/images/cgagne.jpg"
+  bio              : "[Chaire Canada-CIFAR en intelligence artificielle]((https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar)), [Mila](https://mila.quebec)<br/> Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)<br/> Professeur à l'[Université Laval](http://www.ulaval.ca)"
+  location         : "Québec, Québec, Canada"
+  links:
+    - label: "christian.gagne@gel.ulaval.ca"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:christian.gagne@gel.ulaval.ca"
+    - label: "Publications (Scholar)"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
+    - label: "CV académique"
+      icon: "fas fa-certificate"
+      url: "/files/cv-cgagne-fr.pdf"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/chgagne"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/christian-gagn%C3%A9-a926b47/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chgagne"
 
 
 # Site Footer

@@ -1,6 +1,12 @@
 # main links
 main:
-  - title: "Français"
-    url: /fr/
+  - title: "Recherche"
+    url: /recherche/
+  - title: "Enseignement"
+    url: /enseignement/
+  - title: "Publications"
+    url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
+  - title: "Étudiants"
+    url: /etudiants/
   - title: "English"
-    url: /en/
+    url: /english/
