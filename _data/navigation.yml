@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "À propos"
+    url: /  
   - title: "Recherche"
     url: /recherche/
   - title: "Enseignement"
