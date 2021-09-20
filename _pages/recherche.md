@@ -22,6 +22,15 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
   - Réseaux électriques intelligents
   - Véhicules autonomes
 
+## Pages de projet
+
+- [Task-Assisted GAN for Resolution Enhancement and Modality Translation in Fluorescence Microscopy (2021)](https://s3.valeria.science/flclab-tagan/index.html)
+- [Mixture-based Feature Space Learning for Few-shot Image Classification (2021)](https://lvsn.github.io/MixtFSL/)
+- [Image-to-Image Translation with Low Resolution conditioning (2021)](https://github.com/Medabid1/I2I-LR)
+- [Associative Alignment for Few-shot Image Classification (2020)](https://lvsn.github.io/associative-alignment/)
+- [Deep Parametric Indoor Lighting Estimation (2019)](https://lvsn.github.io/deepparametric/)
+- [Toward intelligent microscopy (2018)](https://lvsn.github.io/optimnanoscopy/)
+- [Learning to Predict Indoor Illumination from a Single Image (2017)](http://vision.gel.ulaval.ca/~jflalonde/publications/projects/deepIndoorLight/index.html)
 
 ## Projets logiciels
 

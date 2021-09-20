@@ -10,5 +10,5 @@ main:
     url: "https://scholar.google.com/citations?hl=fr&user=egixsbEAAAAJ&view_op=list_works&sortby=pubdate"
   - title: "Étudiants"
     url: /etudiants
-  - title: "**English**"
+  - title: "<b>English</b>"
     url: /english
