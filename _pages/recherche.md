@@ -1,5 +1,6 @@
 ---
-permalink: /recherche/
+permalink: /recherche
+redirect_from: /francais/recherche
 title: "Recherche"
 ---
 

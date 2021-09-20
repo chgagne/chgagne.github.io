@@ -1,6 +1,8 @@
 ---
 permalink: /
-redirect_from: /français
+redirect_from: /apropos
+redirect_from: /francais
+redirect_from: /francais/apropos
 title: "Christian Gagné"
 ---
 

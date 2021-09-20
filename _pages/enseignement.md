@@ -1,5 +1,6 @@
 ---
-permalink: /enseignement/
+permalink: /enseignement
+redirect_from: /francais/enseignement
 title: "Enseignement"
 ---
 

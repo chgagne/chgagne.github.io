@@ -1,5 +1,6 @@
 ---
-permalink: /etudiants/
+permalink: /etudiants
+redirect_from: /francais/etudiants
 title: "Étudiants"
 ---
 
