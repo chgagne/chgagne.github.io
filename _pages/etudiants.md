@@ -24,7 +24,6 @@ title: "Étudiants"
     - Thomas Philippon, maîtrise en génie électrique, depuis 2020
     - Cyril Blanc, maîtrise en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), depuis 2020
     - Ali Assafiri, maîtrise en sciences géomatiques (superviseure : [Sylvie Daniel](https://www.scg.ulaval.ca/sylvie-daniel)), depuis 2019
-    - Mohamed Abderrahmen Abid, maîtrise en génie électrique, depuis 2019
     - Ba Diep Nguyen, maîtrise en génie électrique (cosuperviseur : Daniel Reinharz), depuis 2018
     - Alexandre Hains, maîtrise en génie électrique, depuis 2018
 - Stagiaires postdoctoraux
@@ -45,6 +44,7 @@ title: "Étudiants"
     - [Meysam Argany](https://profile.ut.ac.ir/en/~argany), [*Development of a GIS-based method for sensor network deployment and coverage optimization*](http://hdl.handle.net/20.500.11794/25829), doctorat en sciences géomatiques (superviseur : [Mir Abolfazl Mostafavi](https://www.scg.ulaval.ca/mir-abolfazl-mostafavi)), 2015
     - Darwin Brochero, [*Hydroinformatics and diversity in hydrological ensemble prediction systems*](http://hdl.handle.net/20.500.11794/24547), doctorat en génie des eaux (superviseur : [François Anctil](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/anctil-francois/)), 2013
 - Maîtrise
+    - Mohamed Abderrahmen Abid, *Diverse Image Generation with Very Low Resolution Conditioning*, maîtrise en génie électrique, 2021
     - Gabriel Leclerc, [*Apprendre de données positives et non étiquetées: application à la segmentation et la détection d’événements calciques*](http://hdl.handle.net/20.500.11794/69813), maîtrise en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), 2021
     - [Hugo Siqueira Gomes](https://hugodovs.github.io/), [*Meta Learning for Population-Based Algorithms in Black-box Optimization*](http://hdl.handle.net/20.500.11794/68764), maîtrise en génie électrique, 2021
     - [Louis-Émile Robitaille](https://l3robot.github.io/), [*Réseaux de neurones pour l’apprentissage de la préférence en microscopie super-résolution*](http://hdl.handle.net/20.500.11794/68744), maîtrise en génie électrique (cosuperviseures : [Audrey Durand](https://audurand.wordpress.com/) et [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), 2021
