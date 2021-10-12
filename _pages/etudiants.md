@@ -8,7 +8,7 @@ title: "Étudiants"
 
 - Doctorat
     - Sara Karami, doctorat en génie électrique, depuis 2021
-    - [Sabyasachi Sahoo](https://sabyasachis.github.io/), doctorat en génie électrique, depuis 2021
+    - [Sabyasachi Sahoo](https://sabyasachis.github.io/), doctorat en génie électrique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), Université Côte d'Azur), depuis 2021
     - Catherine Bouchard, doctorat en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2019 (passage au doctorat en 2021)
     - [Adam Tupper](https://www.adamtupper.nz/), doctorat en génie électrique, depuis 2021
     - Benjamin Léger, doctorat en génie électrique, depuis 2020
