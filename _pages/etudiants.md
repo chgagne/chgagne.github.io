@@ -7,6 +7,7 @@ title: "Étudiants"
 ## Étudiants actuels
 
 - Doctorat
+    - Jonas Ngnawé, doctorat en informatique (cosuperviseur: [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), depuis 2021
     - Sara Karami, doctorat en génie électrique, depuis 2021
     - [Sabyasachi Sahoo](https://sabyasachis.github.io/), doctorat en génie électrique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), Université Côte d'Azur), depuis 2021
     - Catherine Bouchard, doctorat en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2019 (passage au doctorat en 2021)
@@ -14,22 +15,20 @@ title: "Étudiants"
     - Benjamin Léger, doctorat en génie électrique, depuis 2020
     - Nour Elhouda Dhiab, doctorat en génie civil (superviseur : [Jean Côté](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/cote-jean/)), depuis 2019
     - [Arman Afrasiyabi](https://armanafrasiyabi.github.io/), doctorat en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), depuis 2017
-    - [Changjian Shui](https://cjshui.github.io/), doctorat en génie électrique (cosuperviseur: [Boyu Wang](https://sites.google.com/site/borriewang/), Western Ontario), depuis 2017
-  - Sophie Baillargeon, doctorat en mathématiques (concentration statistique) (superviseur : [Thierry Duchesne](https://www.mat.ulaval.ca/departement-et-professeurs/direction-personnel-et-etudiants/professeurs/fiche-de-professeur/show/duchesne-thierry/)), depuis 2014
+    - Sophie Baillargeon, doctorat en mathématiques (concentration statistique) (superviseur : [Thierry Duchesne](https://www.mat.ulaval.ca/departement-et-professeurs/direction-personnel-et-etudiants/professeurs/fiche-de-professeur/show/duchesne-thierry/)), depuis 2014
 - Maîtrise
     - Frédéric Beaupré, maîtrise en biophotonique, (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2021
-    - Valentin Gendre, maîtrise en génie électrique, depuis 2021
     - Antoine Ollier, maîtrise en génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2020
     - Thomas Philippon, maîtrise en génie électrique, depuis 2020
-    - Cyril Blanc, maîtrise en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), depuis 2020
     - Ba Diep Nguyen, maîtrise en génie électrique (cosuperviseur : Daniel Reinharz), depuis 2018
-    - Alexandre Hains, maîtrise en génie électrique, depuis 2018
 - Stagiaires postdoctoraux
+    - [Theresa Wiesner](https://wiesnertheresa.github.io/), superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal), depuis 2021
     - Fatemeh Gholi Zadeh Kharrat, cosuperviseure : [Caroline Sirois](http://www.crchudequebec.ulaval.ca/recherche/chercheurs/caroline-sirois/), depuis 2020
 
 ## Anciens étudiants
 
 - Doctorat
+    - [Changjian Shui](https://cjshui.github.io/), [*Principled Deep Learning Approaches for Learning from Limited Labeled Data through Distribution Matching*](http://hdl.handle.net/20.500.11794/73028), doctorat en génie électrique (cosuperviseur: [Boyu Wang](https://sites.google.com/site/borriewang/), Western Ontario), 2022
     - Mahdieh Abbasi, [*Toward Robust Deep Neural Networks*](http://hdl.handle.net/20.500.11794/67766), doctorat en génie électrique (cosuperviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)), 2020
     - Marc-André Gardner, [*Learning to Estimate Indoor Illumination*](http://hdl.handle.net/20.500.11794/67302), doctorat en génie électrique (superviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), 2020
     - Karol Lina Lopez, [*A Machine Learning Approach for the Smart Charging of Electric Vehicles*](http://hdl.handle.net/20.500.11794/34741), doctorat en génie électrique, 2019
@@ -42,7 +41,8 @@ title: "Étudiants"
     - [Meysam Argany](https://profile.ut.ac.ir/en/~argany), [*Development of a GIS-based method for sensor network deployment and coverage optimization*](http://hdl.handle.net/20.500.11794/25829), doctorat en sciences géomatiques (superviseur : [Mir Abolfazl Mostafavi](https://www.scg.ulaval.ca/mir-abolfazl-mostafavi)), 2015
     - Darwin Brochero, [*Hydroinformatics and diversity in hydrological ensemble prediction systems*](http://hdl.handle.net/20.500.11794/24547), doctorat en génie des eaux (superviseur : [François Anctil](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/anctil-francois/)), 2013
 - Maîtrise
-    - Mohamed Abderrahmen Abid, *Diverse Image Generation with Very Low Resolution Conditioning*, maîtrise en génie électrique, 2021
+    - Cyril Blanc, [*Caractérisation automatique d'immeuble depuis une image de façade*](http://hdl.handle.net/20.500.11794/73352), maîtrise en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), 2022
+    - Mohamed Abderrahmen Abid, [*Diverse Image Generation with Very Low Resolution Conditioning*](https://corpus.ulaval.ca/jspui/handle/20.500.11794/70396), maîtrise en génie électrique, 2021
     - Gabriel Leclerc, [*Apprendre de données positives et non étiquetées: application à la segmentation et la détection d’événements calciques*](http://hdl.handle.net/20.500.11794/69813), maîtrise en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), 2021
     - [Hugo Siqueira Gomes](https://hugodovs.github.io/), [*Meta Learning for Population-Based Algorithms in Black-box Optimization*](http://hdl.handle.net/20.500.11794/68764), maîtrise en génie électrique, 2021
     - [Louis-Émile Robitaille](https://l3robot.github.io/), [*Réseaux de neurones pour l’apprentissage de la préférence en microscopie super-résolution*](http://hdl.handle.net/20.500.11794/68744), maîtrise en génie électrique (cosuperviseures : [Audrey Durand](https://audurand.wordpress.com/) et [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), 2021
