@@ -7,6 +7,7 @@ title: "Étudiants"
 ## Étudiants actuels
 
 - Doctorat
+    - Frédéric Beaupré, doctorat en biophotonique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2021 (passage au doctorat en 2022)
     - Jonas Ngnawé, doctorat en informatique (cosuperviseur: [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), depuis 2021
     - Sara Karami, doctorat en génie électrique, depuis 2021
     - [Sabyasachi Sahoo](https://sabyasachis.github.io/), doctorat en génie électrique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), Université Côte d'Azur), depuis 2021
@@ -14,20 +15,19 @@ title: "Étudiants"
     - [Adam Tupper](https://www.adamtupper.nz/), doctorat en génie électrique, depuis 2021
     - Benjamin Léger, doctorat en génie électrique, depuis 2020
     - Nour Elhouda Dhiab, doctorat en génie civil (superviseur : [Jean Côté](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/cote-jean/)), depuis 2019
-    - [Arman Afrasiyabi](https://armanafrasiyabi.github.io/), doctorat en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), depuis 2017
     - Sophie Baillargeon, doctorat en mathématiques (concentration statistique) (superviseur : [Thierry Duchesne](https://www.mat.ulaval.ca/departement-et-professeurs/direction-personnel-et-etudiants/professeurs/fiche-de-professeur/show/duchesne-thierry/)), depuis 2014
 - Maîtrise
-    - Frédéric Beaupré, maîtrise en biophotonique, (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2021
+    - Cynthia Garcia Ybarra, maîtrise en informatique (cosuperviseure : [Anne-Sophie Charest](https://www.mat.ulaval.ca/departement-et-professeurs/direction-personnel-et-etudiants/professeurs/fiche-de-professeur/anne-sophie-charest-84)), depuis 2023
     - Antoine Ollier, maîtrise en génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2020
     - Thomas Philippon, maîtrise en génie électrique, depuis 2020
     - Ba Diep Nguyen, maîtrise en génie électrique (cosuperviseur : Daniel Reinharz), depuis 2018
 - Stagiaires postdoctoraux
-    - [Theresa Wiesner](https://wiesnertheresa.github.io/), superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal), depuis 2021
     - Fatemeh Gholi Zadeh Kharrat, cosuperviseure : [Caroline Sirois](http://www.crchudequebec.ulaval.ca/recherche/chercheurs/caroline-sirois/), depuis 2020
 
 ## Anciens étudiants
 
 - Doctorat
+    - [Arman Afrasiyabi](https://armanafrasiyabi.github.io/), [*Representation Learning for Few-shot Image Classification*](http://hdl.handle.net/20.500.11794/73767), doctorat en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), 2022
     - [Changjian Shui](https://cjshui.github.io/), [*Principled Deep Learning Approaches for Learning from Limited Labeled Data through Distribution Matching*](http://hdl.handle.net/20.500.11794/73028), doctorat en génie électrique (cosuperviseur: [Boyu Wang](https://sites.google.com/site/borriewang/), Western Ontario), 2022
     - Mahdieh Abbasi, [*Toward Robust Deep Neural Networks*](http://hdl.handle.net/20.500.11794/67766), doctorat en génie électrique (cosuperviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)), 2020
     - Marc-André Gardner, [*Learning to Estimate Indoor Illumination*](http://hdl.handle.net/20.500.11794/67302), doctorat en génie électrique (superviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), 2020
@@ -53,6 +53,8 @@ title: "Étudiants"
     - [Audrey Durand](https://audurand.wordpress.com/), [*Simulation et apprentissage Monte-Carlo de stratégies d'intervention en santé publique*](http://hdl.handle.net/20.500.11794/22982), maîtrise en génie électrique (cosuperviseur : Daniel Reinharz), 2011
     - François-Michel De Rainville, [*Design d'expérimentation interactif : Aide à la compréhension de systèmes complexes*](http://hdl.handle.net/20.500.11794/22172), maîtrise en génie électrique (superviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)), 2010
 - Stagiaires postdoctoraux
+    - [Fan Zhou](https://fzhou.cc/), superviseur : [Mario Marchand](https://www2.ift.ulaval.ca/~mmarchand/), 2022
+    - [Theresa Wiesner](https://wiesnertheresa.github.io/), superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal), 2021 - 2022
     - Ihsen Hedhli, 2018 - 2020
     - Azadeh Sadat Mozafari, 2017 - 2019
     - Farkhondeh Kiaee, 2016
