@@ -7,8 +7,9 @@ title: "Étudiants"
 ## Étudiants actuels
 
 - Doctorat
+    - Fatemeh Nourilenjan Nokabadi, doctorat en génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), depuis 2023
     - Frédéric Beaupré, doctorat en biophotonique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2021 (passage au doctorat en 2022)
-    - Jonas Ngnawé, doctorat en informatique (cosuperviseur: [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), depuis 2021
+    - Jonas Ngnawé, doctorat en informatique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), depuis 2021
     - Sara Karami Varnamkhast, doctorat en génie électrique, depuis 2021
     - [Sabyasachi Sahoo](https://sabyasachis.github.io/), doctorat en génie électrique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), Université Côte d'Azur), depuis 2021
     - Catherine Bouchard, doctorat en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2019 (passage au doctorat en 2021)
@@ -19,7 +20,6 @@ title: "Étudiants"
 - Maîtrise
     - Cynthia García Ybarra, maîtrise en informatique (cosuperviseure : [Anne-Sophie Charest](https://www.mat.ulaval.ca/departement-et-professeurs/direction-personnel-et-etudiants/professeurs/fiche-de-professeur/anne-sophie-charest-84)), depuis 2023
     - Antoine Séverin Ollier, maîtrise en génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2020
-    - Thomas Philippon, maîtrise en génie électrique, depuis 2020
     - Ba Diep Nguyen, maîtrise en génie électrique (cosuperviseur : Daniel Reinharz), depuis 2018
 
 ## Anciens étudiants
@@ -39,6 +39,7 @@ title: "Étudiants"
     - [Meysam Argany](https://profile.ut.ac.ir/en/~argany), [*Development of a GIS-based method for sensor network deployment and coverage optimization*](http://hdl.handle.net/20.500.11794/25829), doctorat en sciences géomatiques (superviseur : [Mir Abolfazl Mostafavi](https://www.scg.ulaval.ca/mir-abolfazl-mostafavi)), 2015
     - Darwin Brochero, [*Hydroinformatics and diversity in hydrological ensemble prediction systems*](http://hdl.handle.net/20.500.11794/24547), doctorat en génie des eaux (superviseur : [François Anctil](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/anctil-francois/)), 2013
 - Maîtrise
+    - Thomas Philippon, *Robustesse des mécanismes de défense adverse basés sur les ensembles de réseaux de neurones*, maîtrise en génie électrique, 2023
     - Cyril Blanc, [*Caractérisation automatique d'immeuble depuis une image de façade*](http://hdl.handle.net/20.500.11794/73352), maîtrise en génie électrique (superviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), 2022
     - Mohamed Abderrahmen Abid, [*Diverse Image Generation with Very Low Resolution Conditioning*](https://corpus.ulaval.ca/jspui/handle/20.500.11794/70396), maîtrise en génie électrique, 2021
     - Gabriel Leclerc, [*Apprendre de données positives et non étiquetées: application à la segmentation et la détection d’événements calciques*](http://hdl.handle.net/20.500.11794/69813), maîtrise en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), 2021
