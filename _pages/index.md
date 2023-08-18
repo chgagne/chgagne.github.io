@@ -24,6 +24,11 @@ Courriel : [christian.gagne@gel.ulaval.ca](mailto:christian.gagne@gel.ulaval.ca)
 Téléphone : utilisez le courriel
 
 
+**Deux projets de doctorat disponibles en apprentissage automatique appliqué :**
+- [**Apprentissage automatique de modèles de simulation multi-agent du transport basés sur les données**](https://www.projets-recherche.ulaval.ca/projet?id=431099)
+- [**Apprentissage fédéré pour gestion de la demande décentralisée et personalisée dans les réseaux électriques intelligents**](https://www.projets-recherche.ulaval.ca/projet?id=431100)
+
+
 ## Biographie courte 
 
 Christian Gagné est professeur au [département de génie électrique et de génie informatique](https://www.gelgif.ulaval.ca) de l'[Université Laval](https://www.ulaval.ca) depuis 2008. Il est directeur (en sabbatique) de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca). Il détient une [Chaire en intelligence artificielle Canada-CIFAR](https://www.cifar.ca/fr/ia/strategie-pancanadienne-en-matiere-dintelligence-artificielle/les-chaires-en-ia-canada-cifar) et est membre associé à [Mila](https://mila.quebec). Il est également membre du [Laboratoire de vision et systèmes numériques](https://vision.gel.ulaval.ca) (LVSN), une composante du [Centre de recherche en robotique, vision et intelligence machine](https://cervim.ulaval.ca) (CeRVIM) ainsi que du [Centre de recherche en données massives](https://crdm.ulaval.ca) (CRDM) de l’Université Laval. Il fait partie des regroupements stratégiques [REPARTI](http://reparti.gel.ulaval.ca) et [UNIQUE](https://sites.google.com/view/unique-neuro-ai/abou) du FRQNT, du centre [VITAM](http://www.cersspl.ca/) du FRQS et de l'[Observatoire international sur les impacts sociétaux de l'IA et du numérique](https://observatoire-ia.ulaval.ca/) (OBVIA).
