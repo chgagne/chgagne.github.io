@@ -5,8 +5,7 @@ redirect_from: /francais
 redirect_from: /francais/apropos
 title: "Christian Gagné"
 ---
-
-> Deux projets de doctorat disponibles en apprentissage automatique appliqué :
+> Deux projets de doctorat disponibles dans mon équipe sur l'apprentissage automatique appliqué :
 > - [Apprentissage automatique de modèles de simulation multi-agent du transport basés sur les données](https://www.projets-recherche.ulaval.ca/projet?id=431099)
 > - [Apprentissage fédéré pour gestion de la demande décentralisée et personalisée dans les réseaux électriques intelligents](https://www.projets-recherche.ulaval.ca/projet?id=431100)
 
