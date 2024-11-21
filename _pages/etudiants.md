@@ -22,7 +22,6 @@ title: "Étudiants"
     - Koraly Lessard, maîtrise en informatique (superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2024
     - Katrine Castonguay, maîtrise en informatique (superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2024
     - Cynthia García Ybarra, maîtrise en informatique (cosuperviseure : [Anne-Sophie Charest](https://www.mat.ulaval.ca/departement-et-professeurs/direction-personnel-et-etudiants/professeurs/fiche-de-professeur/anne-sophie-charest-84)), depuis 2023
-    - Antoine Séverin Ollier, maîtrise en génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), depuis 2020
 
 ## Anciens étudiants
 
@@ -41,6 +40,7 @@ title: "Étudiants"
     - [Meysam Argany](https://profile.ut.ac.ir/en/~argany), [*Development of a GIS-based method for sensor network deployment and coverage optimization*](http://hdl.handle.net/20.500.11794/25829), doctorat en sciences géomatiques (superviseur : [Mir Abolfazl Mostafavi](https://www.scg.ulaval.ca/mir-abolfazl-mostafavi)), 2015
     - Darwin Brochero, [*Hydroinformatics and diversity in hydrological ensemble prediction systems*](http://hdl.handle.net/20.500.11794/24547), doctorat en génie des eaux (superviseur : [François Anctil](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/anctil-francois/)), 2013
 - Maîtrise
+    - Antoine Séverin Ollier, [*Développement d'un module de détection hyperspectrale et résolu dans le temps pour la microscopie STED*](https://hdl.handle.net/20.500.11794/152643), maîtrise en génie électrique (superviseure: [Flavie Lavoie-Cardinal](https://cervo.ulaval.ca/fr/flavie-lavoie-cardinal)), 2024
     - Thomas Philippon, [*Robustesse des mécanismes de défense adverse basés sur les ensembles de réseaux de neurones*](http://hdl.handle.net/20.500.11794/117064), maîtrise en génie électrique, 2023
     - Cyril Blanc, [*Caractérisation automatique d'immeuble depuis une image de façade*](http://hdl.handle.net/20.500.11794/73352), maîtrise en génie électrique (superviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)), 2022
     - Mohamed Abderrahmen Abid, [*Diverse Image Generation with Very Low Resolution Conditioning*](https://corpus.ulaval.ca/jspui/handle/20.500.11794/70396), maîtrise en génie électrique, 2021
