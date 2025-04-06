@@ -5,11 +5,12 @@ redirect_from: /francais
 redirect_from: /francais/apropos
 title: "Christian Gagné"
 ---
-> Projet de doctorat disponible dans mon équipe :
-> - [Apprentissage fédéré pour gestion de la demande décentralisée et personalisée dans les réseaux électriques intelligents](https://www.projets-recherche.ulaval.ca/projet?id=431100)
+> Projets de doctorat disponibles dans mon équipe :
+> - [Méthodes pour l'apprentissage de modèles profonds interprétables, fiables et robustes](https://www.projets-recherche.ulaval.ca/projet?id=478332)
+> - [Apprentissage de modèles de transport basés sur des données pour évaluer les effets des nouvelles infrastructures et d'événements rares](https://www.projets-recherche.ulaval.ca/projet?id=478335)
 
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  
-[Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/), membre associé à [Mila](https://mila.quebec)  
+[Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/), membre académique associé à [Mila](https://mila.quebec)  
 Membre du [LVSN](http://vision.gel.ulaval.ca) / [CeRVIM](https://cervim.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](https://reparti.ulaval.ca/) / [UNIQUE](https://fr.unique.quebec/accueil) / [VITAM](http://vitam.ulaval.ca/) / [OBVIA](https://observatoire-ia.ulaval.ca/)  
 Professeur titulaire au [département de génie électrique et de génie informatique](http://www.gelgif.ulaval.ca)  
 de l'[Université Laval](http://www.ulaval.ca)  
@@ -28,11 +29,11 @@ Téléphone : utilisez le courriel
 
 ## Biographie courte 
 
-Christian Gagné est professeur au [département de génie électrique et de génie informatique](https://www.gelgif.ulaval.ca) de l'[Université Laval](https://www.ulaval.ca) depuis 2008. Il est directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca). Il détient une [Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/) et est membre associé à [Mila](https://mila.quebec). Il est également membre du [Laboratoire de vision et systèmes numériques](https://vision.gel.ulaval.ca) (LVSN), une composante du [Centre de recherche en robotique, vision et intelligence machine](https://cervim.ulaval.ca) (CeRVIM) ainsi que du [Centre de recherche en données massives](https://crdm.ulaval.ca) (CRDM) de l’Université Laval. Il fait partie des regroupements stratégiques [REPARTI](http://reparti.gel.ulaval.ca) et [UNIQUE](https://sites.google.com/view/unique-neuro-ai/abou) du FRQNT, du centre [VITAM](http://vitam.ulaval.ca/) du FRQS et de l'[Observatoire international sur les impacts sociétaux de l'IA et du numérique](https://observatoire-ia.ulaval.ca/) (OBVIA).
+Christian Gagné est professeur au [département de génie électrique et de génie informatique](https://www.gelgif.ulaval.ca) de l'[Université Laval](https://www.ulaval.ca) depuis 2008. Il est directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca). Il détient une [Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/) et est membre académique associé à [Mila](https://mila.quebec). Il est également membre du [Laboratoire de vision et systèmes numériques](https://vision.gel.ulaval.ca) (LVSN), une composante du [Centre de recherche en robotique, vision et intelligence machine](https://cervim.ulaval.ca) (CeRVIM) ainsi que du [Centre de recherche en données massives](https://crdm.ulaval.ca) (CRDM) de l’Université Laval. Il fait partie des regroupements stratégiques [REPARTI](http://reparti.gel.ulaval.ca) et [UNIQUE](https://sites.google.com/view/unique-neuro-ai/abou) du FRQNT, du centre [VITAM](http://vitam.ulaval.ca/) du FRQS et de l'[Observatoire international sur les impacts sociétaux de l'IA et du numérique](https://observatoire-ia.ulaval.ca/) (OBVIA).
 
 Il a complété un doctorat en génie électrique (Université Laval) en 2005 pour ensuite effectuer un stage postdoctoral conjointement à l'[INRIA Saclay](https://www.inria.fr/centre/saclay) (France) et l'[Université de Lausanne](https://www.unil.ch) (Suisse) en 2005-2006. Il a œuvré comme associé de recherche en milieu industriel entre 2006 et 2008.
 
-Ses intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage machine et l'optimisation stochastique. En particulier, il s’intéresse aux réseaux de neurones profonds, à l’apprentissage et au transfert de représentations, au méta-apprentissage ainsi qu’à l’apprentissage multitâche. Il s’intéresse également aux approches d’optimisation basées sur des modèles probabilistes ainsi qu’aux algorithmes évolutionnaires, entre autres pour l’optimisation boîte noire et la programmation automatique. Une part importante de ses travaux porte également sur la mise en pratique de ces techniques dans des domaines comme la vision numérique, la microscopie, la santé, l’énergie et les transports.
+Ses intérêts de recherche portent sur l'apprentissage profond et l'optimisation stochastique. En particulier, il s’intéresse à la robustesse et à la généralisation des réseaux de neurones profonds, les approches neuro-symboliques pour en favoriser l'interprétabilité, et le développement de modèles fondationels multimodaux. Une part importante de ses travaux porte également sur la mise en pratique de ces techniques dans des domaines comme la vision numérique, la microscopie à super-resolution, la santé, les transports, et l'énergie.
 
 Pour plus de détails, consultez le [CV](/files/cv-cgagne-fr.pdf).
 

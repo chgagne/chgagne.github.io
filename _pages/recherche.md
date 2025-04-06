@@ -4,23 +4,21 @@ redirect_from: /francais/recherche
 title: "Recherche"
 ---
 
-Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage machine et l'optimisation stochastique ainsi que leurs applications.
+Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage profond et l'optimisation stochastique ainsi que leurs applications.
 
 - Méthodes
   - Réseaux de neurones profonds
-  - Apprentissage et transfert de représentations
-  - Méta-apprentissage
-  - Apprentissage multitâches
-  - Optimisation avec modèles probabilistes
+  - Grands modèles de langues et modèles fondationels
+  - Apprentissage hors distribution et généralisation au domaine
+  - Apprentissage automatique adversariel
   - Algorithmes évolutionnaires
   - Programmation génétique
 - Applications
-  - Reconnaissance des formes
   - Vision numérique
   - Microscopie et neurosciences
   - Santé
+  - Transport et mobilité durable
   - Réseaux électriques intelligents
-  - Véhicules autonomes
 
 ## Pages de projet
 
@@ -41,6 +39,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - [Library for Lens System Ray Tracing (LLSRT)](http://w3.gel.ulaval.ca/~cgagne/llsrt/)
 
 ## Organisation et comités
+
 
 - Comité d'organisation, [Interactive Labeling and Data Augmentation for Vision](https://ildav-workshop.github.io/), [ICCV 2021](http://iccv2021.thecvf.com/) Workshop, 11 octobre 2021.
 - Track chair, [Evolutionary Machine Learning](https://gecco-2021.sigevo.org/Tracks#EML%20-%20Evolutionary%20Machine%20Learning), [GECCO 2021](https://gecco-2021.sigevo.org/HomePage), Lille, France, 10 au 14 juillet 2021
