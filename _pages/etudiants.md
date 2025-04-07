@@ -19,6 +19,7 @@ title: "Étudiants"
     - Sophie Baillargeon, doctorat en mathématiques (concentration statistique) (superviseur : [Thierry Duchesne](https://www.fsg.ulaval.ca/corps-professoral/thierry-duchesne)), depuis 2014
 - Maîtrise
     - Camille Godbout, maîtrise en informatique (superviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang)), depuis 2025
+    - Jacob Côté, maîtrise en informatique (superviseure : [Sophie Gobeil](https://sophie-gobeil.fsg.ulaval.ca/)), depuis 2025
     - Olivier Bussière, maîtrise en informatique (cosuperviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang)), depuis 2024
     - Katrine Castonguay, maîtrise en informatique (superviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)), depuis 2024
     - Cynthia García Ybarra, maîtrise en informatique (cosuperviseure : [Anne-Sophie Charest](https://www.fsg.ulaval.ca/corps-professoral/anne-sophie-charest)), depuis 2023
