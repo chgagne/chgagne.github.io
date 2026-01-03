@@ -22,6 +22,8 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 
 ## Pages de projet
 
+- [TrackPGD: Efficient Adversarial Attack using Object Binary Masks against Robust Transformer Trackers (2024)](https://lvsn.github.io/TrackPGD/)
+- [Reproducibility Study on Adversarial Attacks against Robust Transformer Trackers (2024)](https://lvsn.github.io/ReproStudy/)
 - [Task-Assisted GAN for Resolution Enhancement and Modality Translation in Fluorescence Microscopy (2021)](https://s3.valeria.science/flclab-tagan/index.html)
 - [Mixture-based Feature Space Learning for Few-shot Image Classification (2021)](https://lvsn.github.io/MixtFSL/)
 - [Image-to-Image Translation with Low Resolution conditioning (2021)](https://github.com/Medabid1/I2I-LR)
@@ -40,7 +42,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 
 ## Organisation et comités
 
-
+- Track chair, [Neuroevolution](https://gecco-2026.sigevo.org/Track?itemId=59), [GECCO 2026](https://gecco-2026.sigevo.org/HomePage), San José, Costa Rica, 13 au 17 juillet 2026.
 - Comité d'organisation, [Interactive Labeling and Data Augmentation for Vision](https://ildav-workshop.github.io/), [ICCV 2021](http://iccv2021.thecvf.com/) Workshop, 11 octobre 2021.
 - Track chair, [Evolutionary Machine Learning](https://gecco-2021.sigevo.org/Tracks#EML%20-%20Evolutionary%20Machine%20Learning), [GECCO 2021](https://gecco-2021.sigevo.org/HomePage), Lille, France, 10 au 14 juillet 2021
 - Comité d'organisation, [Rendez-vous IA Québec](https://www.itis.ulaval.ca/cms/site/itis/rviaqc), depuis 2017
