@@ -7,8 +7,10 @@ title: "Étudiants"
 ## Étudiants actuels
 
 - Doctorat
+    - Olivier Bussière, doctorat en informatique (cosuperviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang)), depuis 2024 (passage au doctorat en 2026)
+    - Mathis Rezzouk, doctorat en génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)), depuis 2026
     - Arian Yavari, doctorat en informatique (superviseure : [Jiayi Hong](https://jiayihong.info/)), depuis 2026
-    - Nayoung Kwon, doctorat en informatique, depuis 2025
+    - Rose Nayoung Kwon, doctorat en informatique, depuis 2025
     - Meryam Chaieb, doctorat en informatique (superviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang)), depuis 2025
     - Frédéric Beaupré, doctorat en biophotonique (cosuperviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)), depuis 2021 (passage au doctorat en 2022)
     - [Jonas Ngnawé](https://ngnawejonas.github.io/), doctorat en informatique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), depuis 2021
@@ -21,7 +23,6 @@ title: "Étudiants"
 - Maîtrise
     - Camille Godbout, maîtrise en informatique (superviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang)), depuis 2025
     - Jacob Côté, maîtrise en informatique (superviseure : [Sophie Gobeil](https://sophie-gobeil.fsg.ulaval.ca/)), depuis 2025
-    - Olivier Bussière, maîtrise en informatique (cosuperviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang)), depuis 2024
     - Katrine Castonguay, maîtrise en informatique (superviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)), depuis 2024
 
 ## Anciens étudiants
