@@ -7,13 +7,14 @@ title: "Étudiants"
 ## Étudiants actuels
 
 - Doctorat
+    - Nizar El Ghazal, doctorat en génie électrique, depuis 2026
     - Olivier Bussière, doctorat en informatique (cosuperviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang)), depuis 2024 (passage au doctorat en 2026)
     - Mathis Rezzouk, doctorat en génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)), depuis 2026
     - Arian Yavari, doctorat en informatique (superviseure : [Jiayi Hong](https://jiayihong.info/)), depuis 2026
     - Rose Nayoung Kwon, doctorat en informatique, depuis 2025
     - Meryam Chaieb, doctorat en informatique (superviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang)), depuis 2025
     - Frédéric Beaupré, doctorat en biophotonique (cosuperviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)), depuis 2021 (passage au doctorat en 2022)
-    - [Jonas Ngnawé](https://ngnawejonas.github.io/), doctorat en informatique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), depuis 2021
+    - [Jonas Ngnawé](https://ngnawejonas.github.io/), doctorat en informatique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), Université Côte d'Azur), depuis 2022
     - Sara Karami, doctorat en génie électrique, depuis 2021
     - [Sabyasachi Sahoo](https://sabyasachis.github.io/), doctorat en génie électrique (cosuperviseur : [Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), Université Côte d'Azur), depuis 2021
     - Catherine Bouchard, doctorat en génie électrique (cosuperviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)), depuis 2019 (passage au doctorat en 2021)
@@ -64,5 +65,5 @@ title: "Étudiants"
     - Ihsen Hedhli, 2018 - 2020
     - Azadeh Sadat Mozafari, 2017 - 2019
     - Farkhondeh Kiaee, 2016
-    - Matthew Walker, 2008 - 2011
+    - Matthew Walker, 2009 - 2011
     - Albert Hung-Ren Ko, 2010
