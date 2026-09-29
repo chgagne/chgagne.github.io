@@ -5,14 +5,15 @@ redirect_from: /francais
 redirect_from: /francais/apropos
 title: "Christian Gagné"
 ---
+<!-- cv-hors-portee -->
 > Projet de doctorat disponible dans mon équipe :
 > - [Méthodes pour l'apprentissage de modèles profonds interprétables, fiables et robustes](https://www.projets-recherche.ulaval.ca/projet?id=478332)
 
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  
 [Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/), membre académique associé à [Mila](https://mila.quebec/fr)  
-Membre du [LVSN](http://vision.gel.ulaval.ca) / [CeRVIM](https://cervim.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](https://reparti.ulaval.ca/) / [UNIQUE](https://fr.unique.quebec/accueil) / [CERVO](https://cervo.ulaval.ca/) / [VITAM](http://vitam.ulaval.ca/) / [OBVIA](https://www.obvia.ca/)  
+Membre du [LVSN](https://vision.fsg.ulaval.ca) / [CeRVIM](https://cervim.fsg.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](https://reparti.ulaval.ca/) / [UNIQUE](https://fr.unique.quebec/accueil) / [CERVO](https://cervo.ulaval.ca/) / [VITAM](http://vitam.ulaval.ca/) / [OBVIA](https://www.obvia.ca/)  
 Professeur titulaire au [département de génie électrique et de génie informatique](https://www.fsg.ulaval.ca/departements/departement-de-genie-electrique-et-de-genie-informatique)  
-de l'[Université Laval](http://www.ulaval.ca)  
+de l'[Université Laval](https://www.ulaval.ca)  
 
 Adresse :  
 Département de génie électrique et de génie informatique  
@@ -28,7 +29,7 @@ Téléphone : utilisez le courriel
 
 ## Biographie courte 
 
-Christian Gagné est professeur au [département de génie électrique et de génie informatique](https://www.fsg.ulaval.ca/departements/departement-de-genie-electrique-et-de-genie-informatique) de l'[Université Laval](https://www.ulaval.ca) depuis 2008. Il est directeur fondateur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca). Il détient une [Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/) et est membre académique associé à [Mila](https://mila.quebec/fr). Il est également membre du [Laboratoire de vision et systèmes numériques](https://vision.gel.ulaval.ca) (LVSN), une composante du [Centre de recherche en robotique, vision et intelligence machine](https://cervim.ulaval.ca) (CeRVIM) ainsi que du [Centre de recherche en données massives](https://crdm.ulaval.ca) (CRDM) de l’Université Laval. Il fait partie des regroupements stratégiques [REPARTI](https://reparti.ulaval.ca/) et [UNIQUE](https://fr.unique.quebec/accueil) du FRQNT, des centres [CERVO](https://cervo.ulaval.ca/) et [VITAM](http://vitam.ulaval.ca/) du FRQS et de l'[Observatoire international sur les impacts sociétaux de l'IA et du numérique](https://www.obvia.ca/) (OBVIA).
+Christian Gagné est professeur au [département de génie électrique et de génie informatique](https://www.fsg.ulaval.ca/departements/departement-de-genie-electrique-et-de-genie-informatique) de l'[Université Laval](https://www.ulaval.ca) depuis 2008. Il est directeur fondateur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca). Il détient une [Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/) et est membre académique associé à [Mila](https://mila.quebec/fr). Il est également membre du [Laboratoire de vision et systèmes numériques](https://vision.fsg.ulaval.ca) (LVSN), une composante du [Centre de recherche en robotique, vision et intelligence machine](https://cervim.fsg.ulaval.ca) (CeRVIM) ainsi que du [Centre de recherche en données massives](https://crdm.ulaval.ca) (CRDM) de l’Université Laval. Il fait partie des regroupements stratégiques [REPARTI](https://reparti.ulaval.ca/) et [UNIQUE](https://fr.unique.quebec/accueil) du FRQNT, des centres [CERVO](https://cervo.ulaval.ca/) et [VITAM](http://vitam.ulaval.ca/) du FRQS et de l'[Observatoire international sur les impacts sociétaux de l'IA et du numérique](https://www.obvia.ca/) (OBVIA).
 
 Il a complété un doctorat en génie électrique (Université Laval) en 2005 pour ensuite effectuer un stage postdoctoral conjointement à l'[INRIA Saclay](https://www.inria.fr/fr/centre-inria-de-saclay) (France) et l'[Université de Lausanne](https://www.unil.ch) (Suisse) en 2005-2006. Il a œuvré comme associé de recherche en milieu industriel entre 2006 et 2008.
 

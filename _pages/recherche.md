@@ -3,6 +3,7 @@ permalink: /recherche
 redirect_from: /francais/recherche
 title: "Recherche"
 ---
+<!-- cv-hors-portee -->
 
 Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'apprentissage profond et l'optimisation stochastique ainsi que leurs applications.
 
@@ -21,6 +22,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
   - Réseaux électriques intelligents
 
 ## Pages de projet
+<!-- cv-hors-portee -->
 
 - [TrackPGD: Efficient Adversarial Attack using Object Binary Masks against Robust Transformer Trackers (2024)](https://lvsn.github.io/TrackPGD/)
 - [Reproducibility Study on Adversarial Attacks against Robust Transformer Trackers (2024)](https://lvsn.github.io/ReproStudy/)
@@ -33,6 +35,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - [Learning to Predict Indoor Illumination from a Single Image (2017)](http://vision.gel.ulaval.ca/~jflalonde/publications/projects/deepIndoorLight/index.html)
 
 ## Projets logiciels
+<!-- cv-section: logiciels -->
 
 - [DEAP : Distributed Evolutionary Algorithms in Python](https://github.com/deap/deap)
 - [SCHNAPS : Generic Population-based Simulator for Public Health](https://github.com/audurand/schnaps)
@@ -40,21 +43,29 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - [BEAGLE Puppy](https://code.google.com/archive/p/beagle/wikis/Puppy.wiki)
 - [Library for Lens System Ray Tracing (LLSRT)](http://w3.gel.ulaval.ca/~cgagne/llsrt/)
 
-## Organisation et comités
+## Mandats en cours
+<!-- cv-section: organisation-evenements, comites/internationaux, comites/nationaux, comites/redaction, comites/programme, service-collectivite -->
 
-- Track chair, [Neuroevolution](https://gecco-2026.sigevo.org/Track?itemId=59), [GECCO 2026](https://gecco-2026.sigevo.org/HomePage), San José, Costa Rica, 13 au 17 juillet 2026.
-- Comité d'organisation, [Interactive Labeling and Data Augmentation for Vision](https://ildav-workshop.github.io/), [ICCV 2021](http://iccv2021.thecvf.com/) Workshop, 11 octobre 2021.
-- Track chair, [Evolutionary Machine Learning](https://gecco-2021.sigevo.org/Tracks#EML%20-%20Evolutionary%20Machine%20Learning), [GECCO 2021](https://gecco-2021.sigevo.org/HomePage), Lille, France, 10 au 14 juillet 2021
-- Comité d'organisation, [Rendez-vous IA Québec](https://www.itis.ulaval.ca/cms/site/itis/rviaqc), 2018 - 2023
-- Comité exécutif, [ACM SIGEVO](http://sig.sigevo.org/index.html), 2017 - 2023
-- Comité éditorial, [Genetic Programming and Evolvable Machines](http://www.springer.com/computer/ai/journal/10710), depuis 2013
-- Membre du groupe de travail sur l'électrification des transport, [Institut Technologies de l'information et société](https://www.itis.ulaval.ca), Université Laval, 2014
-- Responsable de la publicité, [GECCO 2014](http://www.sigevo.org/gecco-2014/), Vancouver (Colombie-Britannique), 12 au 16 juillet 2014
-- Comité national d'allocation des ressources, [Calcul Canada](https://computecanada.ca/fr/), 2009 - 2013
-- Responsable Section 200 (Sciences physiques, mathématiques et génie), comité scientifique du 80e congrès de l'[Acfas](http://www.acfas.ca) (Association francophone pour le savoir), Montréal (Québec), 7 au 11 mai 2012
-- Organisateur, [Undergraduate Student Workshop](usw-gecco2011.html), [GECCO 2011](http://www.sigevo.org/gecco-2011), Dublin, Irlande, 12 au 16 juillet 2011
-- Track chair, [Digital Entertainment Technologies and Arts](http://www.sigevo.org/gecco-2011/organizers-tracks.html#det), [GECCO 2011](http://www.sigevo.org/gecco-2011), Dublin, Irlande, 12-16 juillet 2011
-- Éditeur invité, [section spéciale *Evolutionary Art*](http://www.inderscience.com/info/inarticletoc.php?jcode=ijart&year=2015&vol=8&issue=2), [International Journal of Arts and Technology](http://www.inderscience.com/ijart), 2012
-- Responsable des compétitions, [GECCO 2010](http://www.sigevo.org/gecco-2010), Portland (Oregon), 7 au 11 juillet 2010
-- Organisateur local, [GECCO 2009](http://www.sigevo.org/gecco-2009), Montréal (Québec), 8 au 12 juillet 2009
-- Membre de l'organisation locale (commanditaires), [HPCS 2008](http://www.hpcs2008.org), Québec (Québec), 9 au 11 juin 2008
+- Responsable de secteur (*area chair*), [NeurIPS](https://neurips.cc) 2026 <!-- cv: neurips-ac -->
+- Responsable de section (*track chair*), [Neuroevolution](https://gecco-2026.sigevo.org/Track?itemId=59), [GECCO](https://gecco-2026.sigevo.org/HomePage) 2026 et 2027 <!-- cv: gecco-neuroevolution -->
+- Membre indépendant du conseil d'administration, Musée national de l'histoire du Québec, depuis 2026 <!-- cv: nat-ca -->
+- Comité scientifique, [DIM AI4IDF](https://ai4idf.fr/), depuis 2023 <!-- cv: dim-ai4idf -->
+- Comité éditorial, [Genetic Programming and Evolvable Machines](http://www.springer.com/computer/ai/journal/10710), depuis 2013 <!-- cv: gpem-editorial -->
+
+## Mandats précédents
+
+- Co-organisateur, [Rendez-vous IA Québec](https://rdviaqc.com), 2018 - 2023 <!-- cv: rviaq -->
+- Comité exécutif, [ACM SIGEVO](http://sig.sigevo.org/index.html), 2017 - 2023 <!-- cv: sigevo-exec -->
+- Comité d'organisation, [Interactive Labeling and Data Augmentation for Vision](https://ildav-workshop.github.io/), atelier d'[ICCV 2021](http://iccv2021.thecvf.com/) <!-- cv: ildav-iccv2021 -->
+- Responsable de section, [Evolutionary Machine Learning](https://gecco-2021.sigevo.org/Tracks#EML%20-%20Evolutionary%20Machine%20Learning), [GECCO 2021](https://gecco-2021.sigevo.org/HomePage) <!-- cv: gecco-eml -->
+- Groupe de travail sur l'électrification des transports, Institut Technologies de l'information et société, Université Laval, 2014 <!-- cv: transport-itis -->
+- Responsable de la publicité, [GECCO 2014](http://www.sigevo.org/gecco-2014/) <!-- cv: gecco-2014-publicite -->
+- Comité national d'allocation des ressources, Calcul Canada, aujourd'hui l'[Alliance de recherche numérique du Canada](https://alliancecan.ca/fr), 2009 - 2013 et 2017 <!-- cv: calcul-canada -->
+- Éditeur invité, [section spéciale *Evolutionary Art*](http://www.inderscience.com/info/inarticletoc.php?jcode=ijart&year=2015&vol=8&issue=2), [International Journal of Arts and Technology](http://www.inderscience.com/ijart), 2012 <!-- cv: ijart-invite -->
+- Responsable Section 200 (sciences physiques, mathématiques et génie), comité scientifique du 80e congrès de l'[Acfas](http://www.acfas.ca), 2012 <!-- cv: acfas-2012 -->
+- Co-organisateur, *Evolutionary Art Competition*, GECCO 2009 - 2012 <!-- cv: gecco-art-comp -->
+- Organisateur, *Undergraduate Student Workshop*, [GECCO 2011](http://www.sigevo.org/gecco-2011) <!-- cv: gecco-usw2011 -->
+- Responsable de section, [Digital Entertainment Technologies and Arts](http://www.sigevo.org/gecco-2011/organizers-tracks.html#det), [GECCO 2011](http://www.sigevo.org/gecco-2011) <!-- cv: gecco-det2011 -->
+- Responsable des compétitions, [GECCO 2010](http://www.sigevo.org/gecco-2010) <!-- cv: gecco-2010-comp -->
+- Organisateur local, [GECCO 2009](http://www.sigevo.org/gecco-2009) <!-- cv: gecco-2009-local -->
+- Responsable des commanditaires, *High Performance Computing Symposium* (HPCS), Québec, 2008 <!-- cv: hpcs-2008 -->
