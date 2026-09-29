@@ -47,10 +47,11 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 ## Projets logiciels
 <!-- cv-section: logiciels -->
 
-- [DEAP](https://github.com/deap/deap) : Distributed Evolutionary Algorithms in Python
-- [SCHNAPS](https://github.com/audurand/schnaps) : Generic Population-based Simulator for Public Health
-- [Open BEAGLE](https://github.com/chgagne/beagle) : Generic C++ Framework for Evolutionary Computation
-- [BEAGLE Puppy](https://code.google.com/archive/p/beagle/wikis/Puppy.wiki)
+- [**DEAP**](https://github.com/deap/deap) : Distributed Evolutionary Algorithms in Python
+- [**SCHNAPS**](https://github.com/audurand/schnaps) : Generic Population-based Simulator for Public Health
+- [**Open BEAGLE**](https://github.com/chgagne/beagle) : Generic C++ Framework for Evolutionary Computation
+- [**BEAGLE Puppy**](https://code.google.com/archive/p/beagle/wikis/Puppy.wiki)
+{: .logiciels}
 
 ## Mandats en cours
 <!-- cv-section: organisation-evenements, comites/internationaux, comites/nationaux, comites/redaction, comites/programme, service-collectivite -->
@@ -60,6 +61,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - Membre indépendant du conseil d'administration, [Musée national de l'histoire du Québec](https://nat.quebec/) <span class="an">depuis 2026</span> <!-- cv: nat-ca -->
 - Comité scientifique, [DIM AI4IDF](https://ai4idf.fr/) <span class="an">depuis 2023</span> <!-- cv: dim-ai4idf -->
 - Comité éditorial, [Genetic Programming and Evolvable Machines](http://www.springer.com/computer/ai/journal/10710) <span class="an">depuis 2013</span> <!-- cv: gpem-editorial -->
+{: .mandats}
 
 ## Mandats précédents
 <!-- cv-section: organisation-evenements, comites/internationaux, comites/nationaux, comites/redaction, comites/programme, service-collectivite -->
@@ -79,3 +81,4 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - Responsable des compétitions, [GECCO](http://www.sigevo.org/gecco-2010) <span class="an">2010</span> <!-- cv: gecco-2010-comp -->
 - Organisateur local, [GECCO](http://www.sigevo.org/gecco-2009) <span class="an">2009</span> <!-- cv: gecco-2009-local -->
 - Responsable des commanditaires, *High Performance Computing Symposium* (HPCS), Québec <span class="an">2008</span> <!-- cv: hpcs-2008 -->
+{: .mandats}
