@@ -53,6 +53,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - Comité éditorial, [Genetic Programming and Evolvable Machines](http://www.springer.com/computer/ai/journal/10710), depuis 2013 <!-- cv: gpem-editorial -->
 
 ## Mandats précédents
+<!-- cv-section: organisation-evenements, comites/internationaux, comites/nationaux, comites/redaction, comites/programme, service-collectivite -->
 
 - Co-organisateur, [Rendez-vous IA Québec](https://rdviaqc.com), 2018 - 2023 <!-- cv: rviaq -->
 - Comité exécutif, [ACM SIGEVO](http://sig.sigevo.org/index.html), 2017 - 2023 <!-- cv: sigevo-exec -->
