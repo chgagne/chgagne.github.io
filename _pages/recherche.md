@@ -41,14 +41,13 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - [SCHNAPS : Generic Population-based Simulator for Public Health](https://github.com/audurand/schnaps)
 - [Open BEAGLE : Generic C++ Framework for Evolutionary Computation](https://github.com/chgagne/beagle)
 - [BEAGLE Puppy](https://code.google.com/archive/p/beagle/wikis/Puppy.wiki)
-- [Library for Lens System Ray Tracing (LLSRT)](http://w3.gel.ulaval.ca/~cgagne/llsrt/)
 
 ## Mandats en cours
 <!-- cv-section: organisation-evenements, comites/internationaux, comites/nationaux, comites/redaction, comites/programme, service-collectivite -->
 
 - Responsable de secteur (*area chair*), [NeurIPS](https://neurips.cc) 2026 <!-- cv: neurips-ac -->
 - Responsable de section (*track chair*), [Neuroevolution](https://gecco-2026.sigevo.org/Track?itemId=59), [GECCO](https://gecco-2026.sigevo.org/HomePage) 2026 et 2027 <!-- cv: gecco-neuroevolution -->
-- Membre indépendant du conseil d'administration, Musée national de l'histoire du Québec, depuis 2026 <!-- cv: nat-ca -->
+- Membre indépendant du conseil d'administration, [Musée national de l'histoire du Québec](https://nat.quebec/), depuis 2026 <!-- cv: nat-ca -->
 - Comité scientifique, [DIM AI4IDF](https://ai4idf.fr/), depuis 2023 <!-- cv: dim-ai4idf -->
 - Comité éditorial, [Genetic Programming and Evolvable Machines](http://www.springer.com/computer/ai/journal/10710), depuis 2013 <!-- cv: gpem-editorial -->
 
@@ -62,7 +61,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 - Groupe de travail sur l'électrification des transports, Institut Technologies de l'information et société, Université Laval, 2014 <!-- cv: transport-itis -->
 - Responsable de la publicité, [GECCO 2014](http://www.sigevo.org/gecco-2014/) <!-- cv: gecco-2014-publicite -->
 - Comité national d'allocation des ressources, Calcul Canada, aujourd'hui l'[Alliance de recherche numérique du Canada](https://alliancecan.ca/fr), 2009 - 2013 et 2017 <!-- cv: calcul-canada -->
-- Éditeur invité, [section spéciale *Evolutionary Art*](http://www.inderscience.com/info/inarticletoc.php?jcode=ijart&year=2015&vol=8&issue=2), [International Journal of Arts and Technology](http://www.inderscience.com/ijart), 2012 <!-- cv: ijart-invite -->
+- Éditeur invité, [section spéciale *Evolutionary Art*](http://www.inderscience.com/info/inarticletoc.php?jcode=ijart&year=2015&vol=8&issue=2), [International Journal of Arts and Technology](http://www.inderscience.com/ijart), 2015 <!-- cv: ijart-invite -->
 - Responsable Section 200 (sciences physiques, mathématiques et génie), comité scientifique du 80e congrès de l'[Acfas](http://www.acfas.ca), 2012 <!-- cv: acfas-2012 -->
 - Co-organisateur, *Evolutionary Art Competition*, GECCO 2009 - 2012 <!-- cv: gecco-art-comp -->
 - Organisateur, *Undergraduate Student Workshop*, [GECCO 2011](http://www.sigevo.org/gecco-2011) <!-- cv: gecco-usw2011 -->
