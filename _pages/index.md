@@ -1,9 +1,11 @@
 ---
 permalink: /
-redirect_from: /apropos
-redirect_from: /francais
-redirect_from: /francais/apropos
+redirect_from:
+  - /apropos
+  - /francais
+  - /francais/apropos
 title: "Christian Gagné"
+nav: apropos
 ---
 <!-- cv-hors-portee -->
 > Projet de doctorat disponible dans mon équipe :
@@ -12,22 +14,22 @@ title: "Christian Gagné"
 Directeur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca)  
 [Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/), membre académique associé à [Mila](https://mila.quebec/fr)  
 Membre du [LVSN](https://vision.fsg.ulaval.ca) / [CeRVIM](https://cervim.fsg.ulaval.ca) / [CRDM](https://crdm.ulaval.ca) / [REPARTI](https://reparti.ulaval.ca/) / [UNIQUE](https://fr.unique.quebec/accueil) / [CERVO](https://cervo.ulaval.ca/) / [VITAM](http://vitam.ulaval.ca/) / [OBVIA](https://www.obvia.ca/)  
-Professeur titulaire au [département de génie électrique et de génie informatique](https://www.fsg.ulaval.ca/departements/departement-de-genie-electrique-et-de-genie-informatique)  
-de l'[Université Laval](https://www.ulaval.ca)  
+Professeur titulaire au [département de génie électrique et de génie informatique](https://www.fsg.ulaval.ca/departements/departement-de-genie-electrique-et-de-genie-informatique) de l'[Université Laval](https://www.ulaval.ca)
+{: .lignes}
 
-Adresse :  
+## Coordonnées
+
 Département de génie électrique et de génie informatique  
-Pavillon Adrien-Pouliot  
-Université Laval  
-Québec (Québec)&nbsp;&nbsp;G1V 0A6  
-Canada
+Pavillon Adrien-Pouliot, Université Laval  
+Québec (Québec)&nbsp;&nbsp;G1V 0A6, Canada
+{: .lignes}
 
 Bureau : PLT-1138-F  
 Courriel : [christian.gagne@gel.ulaval.ca](mailto:christian.gagne@gel.ulaval.ca)  
 Téléphone : utilisez le courriel
+{: .lignes}
 
-
-## Biographie courte 
+## Biographie
 
 Christian Gagné est professeur au [département de génie électrique et de génie informatique](https://www.fsg.ulaval.ca/departements/departement-de-genie-electrique-et-de-genie-informatique) de l'[Université Laval](https://www.ulaval.ca) depuis 2008. Il est directeur fondateur de l'[Institut intelligence et données (IID)](https://iid.ulaval.ca). Il détient une [Chaire en intelligence artificielle Canada-CIFAR](https://cifar.ca/fr/ia/chaires-en-ia-canada-cifar/) et est membre académique associé à [Mila](https://mila.quebec/fr). Il est également membre du [Laboratoire de vision et systèmes numériques](https://vision.fsg.ulaval.ca) (LVSN), une composante du [Centre de recherche en robotique, vision et intelligence machine](https://cervim.fsg.ulaval.ca) (CeRVIM) ainsi que du [Centre de recherche en données massives](https://crdm.ulaval.ca) (CRDM) de l’Université Laval. Il fait partie des regroupements stratégiques [REPARTI](https://reparti.ulaval.ca/) et [UNIQUE](https://fr.unique.quebec/accueil) du FRQNT, des centres [CERVO](https://cervo.ulaval.ca/) et [VITAM](http://vitam.ulaval.ca/) du FRQS et de l'[Observatoire international sur les impacts sociétaux de l'IA et du numérique](https://www.obvia.ca/) (OBVIA).
 
@@ -36,4 +38,3 @@ Il a complété un doctorat en génie électrique (Université Laval) en 2005 po
 Ses intérêts de recherche portent sur l'apprentissage profond et l'optimisation stochastique. En particulier, il s’intéresse à la robustesse et à la généralisation des réseaux de neurones profonds, les approches neuro-symboliques pour en favoriser l'interprétabilité, et le développement de modèles fondationels multimodaux. Une part importante de ses travaux porte également sur la mise en pratique de ces techniques dans des domaines comme la vision numérique, la microscopie à super-resolution, la santé, les transports, et l'énergie.
 
 Pour plus de détails, consultez le [CV](/files/cv-cgagne-fr.pdf).
-
