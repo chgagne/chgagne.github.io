@@ -1,8 +1,12 @@
 <!-- start custom head snippets -->
 
-<!-- Font Awesome 6.7.2 (>=6.6.0 required for fa-bluesky) -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<!-- Style clair ou sombre : le choix explicite du lecteur l'emporte sur le
+     réglage du système. Appliqué avant tout rendu pour éviter le clignotement. -->
+<script>
+  try {
+    var t = localStorage.getItem("theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+  } catch (e) { /* navigation privée : on s'en remet au système */ }
+</script>
 
 <!-- end custom head snippets -->
