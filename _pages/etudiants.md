@@ -6,7 +6,7 @@ nav: etudiants
 ---
 
 
-## Doctorat <span class="cpt">14</span>
+## Doctorat <span class="cpt">(14)</span>
 {: #doctorat}
 <!-- cv-section: supervision/doctorat-en-cours -->
 
@@ -26,7 +26,7 @@ nav: etudiants
 - **Sophie Baillargeon**, mathématiques (concentration statistique) (superviseur : [Thierry Duchesne](https://www.fsg.ulaval.ca/corps-professoral/thierry-duchesne))
 {: .gens}
 
-## Maîtrise <span class="cpt">3</span>
+## Maîtrise <span class="cpt">(3)</span>
 {: #maitrise}
 <!-- cv-section: supervision/maitrise-en-cours -->
 
@@ -38,13 +38,13 @@ nav: etudiants
 ## Anciens étudiants
 {: .coupure #anciens}
 
-### Doctorat <span class="cpt">14</span>
+### Doctorat <span class="cpt">(14)</span>
 {: .rubrique #anciens-doctorat}
 <!-- cv-section: supervision/doctorat-diplomes -->
 
 - **[Fatemeh Nourilenjan Nokabadi](https://fatemehn.github.io/)**, [*Adversarial Robustness of Learning-based Single Object Trackers*](https://hdl.handle.net/20.500.11794/176643), génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)) <span class="an">2025</span>
 - **Arman Afrasiyabi**, [*Representation Learning for Few-shot Image Classification*](http://hdl.handle.net/20.500.11794/73767), génie électrique (cosuperviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)) <span class="an">2022</span>
-- **[Changjian Shui](https://cjshui.github.io/)**, [*Principled Deep Learning Approaches for Learning from Limited Labeled Data through Distribution Matching*](http://hdl.handle.net/20.500.11794/73028), génie électrique (cosuperviseur: [Boyu Wang](https://sites.google.com/site/borriewang/), Western Ontario) <span class="an">2022</span>
+- **[Changjian Shui](https://cjshui.github.io/)**, [*Principled Deep Learning Approaches for Learning from Limited Labeled Data through Distribution Matching*](http://hdl.handle.net/20.500.11794/73028), génie électrique (cosuperviseur : [Boyu Wang](https://sites.google.com/site/borriewang/), Western Ontario) <span class="an">2022</span>
 - **[Mahdieh Abbasi](https://mahdaneh.github.io/)**, [*Toward Robust Deep Neural Networks*](http://hdl.handle.net/20.500.11794/67766), génie électrique (cosuperviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)) <span class="an">2020</span>
 - **Marc-André Gardner**, [*Learning to Estimate Indoor Illumination*](http://hdl.handle.net/20.500.11794/67302), génie électrique (superviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)) <span class="an">2020</span>
 - **Karol Lina Lopez**, [*A Machine Learning Approach for the Smart Charging of Electric Vehicles*](http://hdl.handle.net/20.500.11794/34741), génie électrique <span class="an">2019</span>
@@ -58,12 +58,12 @@ nav: etudiants
 - **Darwin Brochero**, [*Hydroinformatics and Diversity in Hydrological Ensemble Prediction Systems*](http://hdl.handle.net/20.500.11794/24547), génie des eaux (superviseur : [François Anctil](https://www.gci.ulaval.ca/departement-et-professeurs/professeurs-et-personnel/professeurs/fiche/show/anctil-francois/)) <span class="an">2013</span>
 {: .gens}
 
-### Maîtrise <span class="cpt">14</span>
+### Maîtrise <span class="cpt">(14)</span>
 {: .rubrique #anciens-maitrise}
 <!-- cv-section: supervision/maitrise-diplomes -->
 
 - **Cynthia García Ybarra**, [*Adversarial Random Forest for Synthetic Electronic Health Records Generation*](https://hdl.handle.net/20.500.11794/174783), informatique (cosuperviseure : [Anne-Sophie Charest](https://www.fsg.ulaval.ca/corps-professoral/anne-sophie-charest)) <span class="an">2025</span>
-- **Antoine Séverin Ollier**, [*Développement d'un module de détection hyperspectrale et résolu dans le temps pour la microscopie STED*](https://hdl.handle.net/20.500.11794/152643), génie électrique (superviseure: [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)) <span class="an">2024</span>
+- **Antoine Séverin Ollier**, [*Développement d'un module de détection hyperspectrale et résolu dans le temps pour la microscopie STED*](https://hdl.handle.net/20.500.11794/152643), génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/)) <span class="an">2024</span>
 - **Thomas Philippon**, [*Robustesse des mécanismes de défense adverse basés sur les ensembles de réseaux de neurones*](http://hdl.handle.net/20.500.11794/117064), génie électrique <span class="an">2023</span>
 - **Cyril Blanc**, [*Caractérisation automatique d'immeuble depuis une image de façade*](http://hdl.handle.net/20.500.11794/73352), génie électrique (superviseur : [Jean-François Lalonde](http://vision.gel.ulaval.ca/~jflalonde/)) <span class="an">2022</span>
 - **Mohamed Abderrahmen Abid**, [*Diverse Image Generation with Very Low Resolution Conditioning*](http://hdl.handle.net/20.500.11794/70396), génie électrique <span class="an">2021</span>
@@ -78,7 +78,7 @@ nav: etudiants
 - **François-Michel De Rainville**, [*Design d'expérimentation interactif : Aide à la compréhension de systèmes complexes*](http://hdl.handle.net/20.500.11794/22172), génie électrique (superviseur : [Denis Laurendeau](https://www.gelgif.ulaval.ca/departement-et-professeurs/personnel-et-professeurs/professeurs/fiche/show/laurendeau-denis/)) <span class="an">2010</span>
 {: .gens}
 
-### Stagiaires postdoctoraux <span class="cpt">8</span>
+### Stagiaires postdoctoraux <span class="cpt">(8)</span>
 {: .rubrique #postdoctoraux}
 <!-- cv-section: supervision/postdoctoraux -->
 
