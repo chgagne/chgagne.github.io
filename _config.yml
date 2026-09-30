@@ -21,8 +21,12 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Christian Gagné"
 description              : "Page Web de Christian Gagné"
-url                      : "https://chgagne.github.io"
+url                      : "https://christiangagne.net"
 baseurl                  : # the subpath of your site, e.g. "/blog"
+# Racine servie par ce dépôt. C'est la seule différence de chemin entre les
+# deux sites, et elle vit ici plutôt que dans les inclusions, qui restent
+# identiques de part et d'autre.
+racine                   : "/"
 repository               : "chgagne/chgagne.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
