@@ -6,13 +6,12 @@ nav: etudiants
 ---
 
 
-## Doctorat <span class="cpt">(14)</span>
+## Doctorat <span class="cpt">(13)</span>
 {: #doctorat}
 <!-- cv-section: supervision/doctorat-en-cours -->
 
 - **Nizar El Ghazal**, génie électrique
 - **Olivier Bussière**, informatique (cosuperviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang))
-- **Mathis Rezzouk**, génie électrique (superviseure : [Flavie Lavoie-Cardinal](https://www.flc-lab.com/))
 - **Arian Yavari**, informatique (superviseure : [Jiayi Hong](https://jiayihong.info/))
 - **Rose Nayoung Kwon**, informatique
 - **Meryam Chaieb**, informatique (superviseure : [Bobin Wang](https://www.fsg.ulaval.ca/corps-professoral/bobin-wang))

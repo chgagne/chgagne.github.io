@@ -66,6 +66,7 @@ Mes intérêts de recherche portent sur l’élaboration de méthodes pour l'app
 ## Mandats précédents
 <!-- cv-section: organisation-evenements, comites/internationaux, comites/nationaux, comites/redaction, comites/programme, service-collectivite -->
 
+- Co-responsable, [Atelier prospectif – Les nouvelles frontières de la recherche](https://www.ulaval.ca/calendrier-ulaval/atelier-prospectif-les-nouvelles-frontieres-de-la-recherche), Forum sur l'intelligence artificielle, Université Laval <span class="an">2026</span> <!-- cv: atelier-forum-ia-2026 -->
 - Co-organisateur, [Rendez-vous IA Québec](https://rdviaqc.com) <span class="an">2018–2023</span> <!-- cv: rviaq -->
 - Comité exécutif, [ACM SIGEVO](http://sig.sigevo.org/index.html) <span class="an">2017–2023</span> <!-- cv: sigevo-exec -->
 - Comité d'organisation, [Interactive Labeling and Data Augmentation for Vision](https://ildav-workshop.github.io/), atelier d'[ICCV](http://iccv2021.thecvf.com/) <span class="an">2021</span> <!-- cv: ildav-iccv2021 -->
